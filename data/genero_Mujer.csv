@@ -1,0 +1,674 @@
+genero,rangoedad,estado,Actividad,condicion,grupoetnico,tipoevento,Ubicación,municipio,departamento,sitio,latitudcabecera,longitudcabecera,tipoarea,ano,mes,codigodanemunicipio,codigodanedepartamento
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.225, -77.68)",SANTA CRUZ,NARINO,Sin informacion,1.225,-77.68,Rural,2009,7,52699,52
+Mujer,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2009,12,52612,52
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(2.522444, -75.313361)",ALGECIRAS,HUILA,Sin informacion,2.522444,-75.313361,Urbana,2008,12,41020,41
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.892158, -72.133961)",MAPIRIPAN,META,Sin informacion,2.892158,-72.133961,Rural,2010,1,50325,50
+Mujer,Mayor de 18 anos,Herido,Trabajos de casa,Civil,Indigena,Sin informacion,"(2.892158, -72.133961)",MAPIRIPAN,META,Sin informacion,2.892158,-72.133961,Rural,2010,1,50325,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.847068, -77.247482)",LOPEZ,CAUCA,Lopez De Micay,2.847068,-77.247482,Rural,2010,4,19418,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(4.20730759721, -74.6457533565)",MELGAR,TOLIMA,Vereda Kualamana,4.20730759721,-74.6457533565,Rural,2010,8,73449,73
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.68305192469, -76.5770062302)",SANTA ROSA,CAUCA,Sin informacion,1.68305192469,-76.5770062302,Rural,2003,6,19701,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(3.0390778033060726, -76.41091202775247)",CALOTO,CAUCA,Sin informacion,3.039077803306073,-76.41091202775247,Rural,2008,8,19142,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(3.995057, -76.22708)",SAN PEDRO,VALLE DEL CAUCA,Finca Alto Miranda,3.995057,-76.22708,Rural,2010,3,76670,76
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Campo,"(7.18506073905675, -75.8581145681272)",ITUANGO,ANTIOQUIA,Vereda La Miranda,7.18506073905675,-75.8581145681272,Rural,2010,8,5361,5
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Finca Bonbonal,1.337083,-77.59313,Rural,2007,9,52678,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Los Andes,1.22182,-77.677265,Rural,2008,5,52699,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(3.380464, -73.878772)",SAN JUAN DE ARAMA,META,Sin informacion,3.380464,-73.878772,Rural,2009,2,50683,50
+Mujer,Menor de 18 anos,Muerto,Transito por trocha atajo,Civil,no,Sin informacion,"(8.321825, -73.145699)",HACARI,NORTE DE SANTANDER,Vereda Las Juntas,8.321825,-73.145699,Rural,2009,2,54344,54
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Afrodescendiente,Sin informacion,"(6.958339, -71.878277)",SARAVENA,ARAUCA,Sin informacion,6.958339,-71.878277,Rural,2009,4,81736,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Fincas,"(3.380371, -74.042419)",MESETAS,META,"Vereda Alto El Gobernador, Finca La Esperanza",3.380371,-74.042419,Rural,2009,2,50330,50
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Barrio El Divino Nino,1.336939,-71.951518,Rural,2005,1,95200,95
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Caminos,"(3.380464, -73.878772)",SAN JUAN DE ARAMA,META,Sin informacion,3.380464,-73.878772,Rural,2009,7,50683,50
+Mujer,Mayor de 18 anos,Herido,Trabajos de casa,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Vereda Galilea,6.143703,-75.185183,Rural,2006,8,5313,5
+Mujer,Mayor de 18 anos,Muerto,Trabajos de casa,Civil,no,Sin informacion,"(8.250091, -74.721278)",SAN JACINTO DEL CAUCA,BOLIVAR,San Rafael,8.250091,-74.721278,Rural,2000,4,13655,13
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Sin informacion,"(9.685015, -75.122094)",EL CARMEN DE BOLIVAR,BOLIVAR,Ojito Seco,9.685015,-75.122094,Rural,2003,4,13244,13
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(9.361663, -73.608403)",CHIRIGUANA,CESAR,Sin informacion,9.361663,-73.608403,Urbana,1992,6,20178,20
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(9.361663, -73.608403)",CHIRIGUANA,CESAR,Sin informacion,9.361663,-73.608403,Urbana,1992,6,20178,20
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Mujer,Mayor de 18 anos,Muerto,Otra,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Vereda Santo Domingo,6.058001,-75.185085,Rural,2002,8,5197,5
+Mujer,Menor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Sin informacion,"(7.813524, -74.172696)",SANTA ROSA DEL SUR,BOLIVAR,Sitio La Y,7.813524,-74.172696,Rural,2000,1,13688,13
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Sin informacion,"(1.012487, -71.296639)",CARURU,VAUPES,Vereda La Bodega,1.012487,-71.296639,Rural,2009,5,97161,97
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(7.582546, -75.400212)",TARAZA,ANTIOQUIA,Sin informacion,7.582546,-75.400212,Rural,2004,3,5790,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.792924, -71.770658)",FORTUL,ARAUCA,Vereda Villa Rica,6.792924,-71.770658,Rural,2005,4,81300,81
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(1.225, -77.68)",SANTA CRUZ,NARINO,Sin informacion,1.225,-77.68,Rural,2009,7,52699,52
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Caminos,"(7.956662, -73.949071)",SIMITI,BOLIVAR,Vereda Las Pavas,7.956662,-73.949071,Rural,2008,7,13744,13
+Mujer,Menor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Caminos,"(7.956662, -73.949071)",SIMITI,BOLIVAR,Vereda Las Pavas,7.956662,-73.949071,Rural,2008,7,13744,13
+Mujer,Menor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Caminos,"(7.956662, -73.949071)",SIMITI,BOLIVAR,Vereda Las Pavas,7.956662,-73.949071,Rural,2008,7,13744,13
+Mujer,Menor de 18 anos,Muerto,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2008,9,95001,95
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2008,9,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.768066666666667, -73.53323055555556)",EL CARMEN,SANTANDER,Vereda La Fortuna,6.768066666666667,-73.53323055555556,Rural,1992,2,68235,68
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(7.317122, -73.016985)",MATANZA,SANTANDER,Vereda Santa Maria,7.317122,-73.016985,Rural,2003,2,68444,68
+Mujer,Mayor de 18 anos,Muerto,Agricultura,Civil,no,Sin informacion,"(6.768066666666667, -73.53323055555556)",EL CARMEN,SANTANDER,Vereda La Fortuna,6.768066666666667,-73.53323055555556,Rural,1992,2,68235,68
+Mujer,Menor de 18 anos,Muerto,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2008,9,95001,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.150473, -78.181048)",RICAURTE,NARINO,Sin informacion,1.150473,-78.181048,Rural,2008,4,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.694248, -76.650754)",QUIBDO,CHOCO,Sin informacion,5.694248,-76.650754,Rural,2004,11,27001,27
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.483919, -73.933361)",SAN PABLO,BOLIVAR,Sin informacion,7.483919,-73.933361,Rural,1992,1,13670,13
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,"Vereda Filipinas, Sector Las Malvinas",6.461209,-71.730855,Rural,2007,9,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2006,6,20001,20
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2006,6,20001,20
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Vereda Palestina,5.965414,-75.10198,Rural,2005,4,5652,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.330752, -72.62777)",EL RETORNO,GUAVIARE,Vereda Alto Termales,2.330752,-72.62777,Rural,2009,1,95025,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.330752, -72.62777)",EL RETORNO,GUAVIARE,Vereda Alto Termales,2.330752,-72.62777,Rural,2009,1,95025,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.330752, -72.62777)",EL RETORNO,GUAVIARE,Vereda Alto Termales,2.330752,-72.62777,Rural,2009,1,95025,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.256154, -75.152958)",MANZANARES,CALDAS,Manzanares,5.256154,-75.152958,Urbana,2008,4,17433,17
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Sin informacion,"(7.963275, -74.051674)",SANTA ROSA DEL SUR,BOLIVAR,Vereda Rio Amarillo Alto,7.963275,-74.051674,Rural,2008,8,13688,13
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,11,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2008,4,52079,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2008,8,52385,52
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.165222, -75.438081)",VALDIVIA,ANTIOQUIA,Vereda La Esperanza,7.165222,-75.438081,Rural,2008,10,5854,5
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.165222, -75.438081)",VALDIVIA,ANTIOQUIA,Vereda La Esperanza,7.165222,-75.438081,Rural,2008,10,5854,5
+Mujer,Mayor de 18 anos,Muerto,Transito por via usual,Civil,no,Sin informacion,"(7.002761, -76.263894)",DABEIBA,ANTIOQUIA,Vereda Cuchillon,7.002761,-76.263894,Rural,2009,11,5234,5
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.002761, -76.263894)",DABEIBA,ANTIOQUIA,Vereda Cuchillon,7.002761,-76.263894,Rural,2009,11,5234,5
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(7.071255, -75.354566)",YARUMAL,ANTIOQUIA,Sin informacion,7.071255,-75.354566,Rural,2006,7,5887,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.397197, -73.496496)",SABANA DE TORRES,SANTANDER,Sin informacion,7.397197,-73.496496,Rural,2009,7,68655,68
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Sin informacion,1.336939,-71.951518,Rural,2009,7,95200,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.45616, -76.606092)",POPAYAN,CAUCA,Barrio San Ignacio,2.45616,-76.606092,Urbana,2001,8,19001,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.51962, -73.081068)",LA JAGUA DEL PILAR,LA GUAJIRA,Sin informacion,10.51962,-73.081068,Rural,1999,12,44420,44
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.709167, -75.310278)",SONSON,ANTIOQUIA,Vereda La Aguada,5.709167,-75.310278,Rural,2005,12,5756,5
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.731577, -75.1416)",ARGELIA,ANTIOQUIA,Paraje La Aguada,5.731577,-75.1416,Rural,2005,12,5055,5
+Mujer,Menor de 18 anos,Herido,Trabajos de casa,Civil,no,Sin informacion,"(2.976277, -73.674948)",VISTAHERMOSA,META,Inspeccion Pinalito,2.976277,-73.674948,Rural,2005,6,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Sin informacion,5.965414,-75.10198,Rural,2005,3,5652,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.979151, -75.296386)",CAMPAMENTO,ANTIOQUIA,Sector Alto De La Mina,6.979151,-75.296386,Rural,2006,7,5134,5
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Sin informacion,6.143703,-75.185183,Rural,2004,1,5313,5
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(5.367, -74.35)",LA PALMA,CUNDINAMARCA,Sin informacion,5.367,-74.35,Rural,2002,12,25394,25
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.493822, -76.352141)",PALMIRA,VALLE DEL CAUCA,Corregimiento Combia Vereda El Cabuyal,3.493822,-76.352141,Rural,2008,1,76520,76
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.493822, -76.352141)",PALMIRA,VALLE DEL CAUCA,Corregimiento Combia Vereda El Cabuyal,3.493822,-76.352141,Rural,2008,1,76520,76
+Mujer,Menor de 18 anos,Herido,Cuidado de animales,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Barrio Pedregal,6.229209,-75.564887,Rural,2006,7,5001,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.601369, -73.068617)",CURITI,SANTANDER,Barrio Las Palmas,6.601369,-73.068617,Urbana,2001,6,68229,68
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.601369, -73.068617)",CURITI,SANTANDER,Barrio Las Palmas,6.601369,-73.068617,Urbana,2001,6,68229,68
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.885866, -75.335458)",ANGOSTURA,ANTIOQUIA,Vereda Guantanos,6.885866,-75.335458,Rural,2004,8,5038,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Kilometro 5 Via La Cabuya-Tame,6.461209,-71.730855,Rural,2007,4,81794,81
+Mujer,Menor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(6.136617, -75.264829)",SANTUARIO,ANTIOQUIA,Sin informacion,6.136617,-75.264829,Rural,2001,12,5697,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.882098, -76.625111)",APARTADO,ANTIOQUIA,Finca La Potosi,7.882098,-76.625111,Rural,1993,5,5045,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(4.566107, -75.758339)",MONTENEGRO,QUINDIO,Barrio Turbay,4.566107,-75.758339,Urbana,2002,11,63470,63
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.081507, -73.221319)",ABREGO,NORTE DE SANTANDER,Vereda Quebrada De Los Indios,8.081507,-73.221319,Rural,2002,10,54003,54
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(2.612476, -76.379474)",SILVIA,CAUCA,Guambia,2.612476,-76.379474,Rural,1997,1,19743,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Palmirita,6.058001,-75.185085,Rural,2000,6,5197,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Sin informacion,5.965414,-75.10198,Rural,2005,3,5652,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Vereda Villa Arteaga,7.243481,-76.436166,Rural,1998,5,5480,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Vereda Villa Arteaga,7.243481,-76.436166,Rural,1998,5,5480,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Vereda Villa Arteaga,7.243481,-76.436166,Rural,1998,5,5480,5
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.963275, -74.051674)",SANTA ROSA DEL SUR,BOLIVAR,Sin informacion,7.963275,-74.051674,Rural,1997,11,13688,13
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.023186, -71.384978)",ARAUQUITA,ARAUCA,Vereda La Ceiba,7.023186,-71.384978,Rural,2001,2,81065,81
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.731577, -75.1416)",ARGELIA,ANTIOQUIA,Vereda La Mina,5.731577,-75.1416,Rural,2005,3,5055,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.243472, -73.417838)",GUADALUPE,SANTANDER,Sin informacion,6.243472,-73.417838,Rural,2003,12,68320,68
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(5.359147, -74.390704)",LA PALMA,CUNDINAMARCA,Sin informacion,5.359147,-74.390704,Rural,2002,12,25394,25
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Plazuela San Ignacio,6.229209,-75.564887,Rural,2004,5,5001,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sector Carcuel Via A Junin,1.672216,-78.138537,Rural,2005,11,52079,52
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Corregimiento Santa Ana,6.143703,-75.185183,Rural,2003,11,5313,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Corregimiento Santa Ana,6.143703,-75.185183,Rural,2003,11,5313,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.441321, -73.338071)",SIMACOTA,SANTANDER,Vereda Danto Bajo,6.441321,-73.338071,Rural,2002,6,68745,68
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Comunidad Indigena Mandi,1.249969,-70.235462,Rural,2005,10,97001,97
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.411801, -74.989572)",SAMANA,CALDAS,Sin informacion,5.411801,-74.989572,Rural,2002,4,17662,17
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.0175, -71.468056)",ARAUQUITA,ARAUCA,Casco Urbano,7.0175,-71.468056,Rural,2005,4,81065,81
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.095854, -74.776599)",NECHI,ANTIOQUIA,Vereda San Agustin,8.095854,-74.776599,Rural,1993,4,5495,5
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Zona Rural,1.672216,-78.138537,Rural,2005,11,52079,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.483919, -73.933361)",SAN PABLO,BOLIVAR,Corregimiento El Socorro,7.483919,-73.933361,Rural,2005,4,13670,13
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.105282, -77.764098)",JURADO,CHOCO,Sin informacion,7.105282,-77.764098,Rural,2008,3,27372,27
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Vereda La Laguna,2.776824,-76.324799,Rural,2002,8,19364,19
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(7.714365, -72.655037)",DURANIA,NORTE DE SANTANDER,Barrio La Palma,7.714365,-72.655037,Urbana,2004,2,54239,54
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.493975, -77.521244)",LOS ANDES,NARINO,Sin informacion,1.493975,-77.521244,Rural,2006,1,52418,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.483919, -73.933361)",SAN PABLO,BOLIVAR,Sin informacion,7.483919,-73.933361,Rural,1996,8,13670,13
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.798611, -75.758333)",SAN ANDRES,ANTIOQUIA,Sitio El Cordal,6.798611,-75.758333,Rural,2004,2,5647,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.864, -73.876)",SIMACOTA,SANTANDER,Vereda Vizcaina Baja,6.864,-73.876,Rural,2001,3,68745,68
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.214079, -73.239218)",LA PLAYA,NORTE DE SANTANDER,Corregimiento La Vega,8.214079,-73.239218,Rural,2002,10,54398,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.214079, -73.239218)",LA PLAYA,NORTE DE SANTANDER,Corregimiento La Vega,8.214079,-73.239218,Rural,2002,10,54398,54
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.59606, -75.013537)",YOLOMBO,ANTIOQUIA,14 Km De Yolombo,6.59606,-75.013537,Rural,1992,9,5890,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Carcuel,1.672216,-78.138537,Rural,2005,11,52079,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Carcuel,1.672216,-78.138537,Rural,2005,11,52079,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,1,52612,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Sin informacion,5.965414,-75.10198,Rural,2005,3,5652,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.336157, -74.300721)",TOPAIPI,CUNDINAMARCA,Corregimiento Caquian,5.336157,-74.300721,Rural,2003,8,25823,25
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sin informacion,1.621012,-75.619118,Urbana,1995,11,18001,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sin informacion,1.621012,-75.619118,Urbana,1995,11,18001,18
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.493975, -77.521244)",LOS ANDES,NARINO,Vereda Coordilleras Andinas,1.493975,-77.521244,Rural,2006,2,52418,52
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(3.144731, -73.746856)",VISTAHERMOSA,META,Vereda Palestina,3.144731,-73.746856,Rural,2005,6,50711,50
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.5637, -73.7944)",EL CASTILLO,META,Vereda Los Alpes,3.5637,-73.7944,Rural,2003,7,50251,50
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,"Vereda Filipinas, Sector Las Malvinas",6.461209,-71.730855,Rural,2007,9,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.371953, -72.982441)",SURATA,SANTANDER,Sin informacion,7.371953,-72.982441,Rural,2001,9,68780,68
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.83868, -76.768311)",SAN SEBASTIAN,CAUCA,Sin informacion,1.83868,-76.768311,Rural,2002,10,19693,19
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.502418, -77.214857)",SAN LORENZO,NARINO,Vereda Corpus,1.502418,-77.214857,Rural,2003,3,52687,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.296544, -74.473165)",MONTECRISTO,BOLIVAR,Vereda Puerto Espana,8.296544,-74.473165,Rural,1993,9,13458,13
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.002761, -76.263894)",DABEIBA,ANTIOQUIA,Vereda Palmira Sector De Guayabito,7.002761,-76.263894,Rural,2006,2,5234,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.002761, -76.263894)",DABEIBA,ANTIOQUIA,Vereda Palmira Sector De Guayabito,7.002761,-76.263894,Rural,2006,2,5234,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.002761, -76.263894)",DABEIBA,ANTIOQUIA,Vereda Palmira Sector De Guayabito,7.002761,-76.263894,Rural,2006,2,5234,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.002761, -76.263894)",DABEIBA,ANTIOQUIA,Vereda Palmira Sector De Guayabito,7.002761,-76.263894,Rural,2006,2,5234,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Vereda El Porvenir,6.461209,-71.730855,Rural,1995,9,81794,81
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(7.975145, -75.41829)",MONTELIBANO,CORDOBA,Corregimiento Tierradentro,7.975145,-75.41829,Rural,2005,4,23466,23
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.975145, -75.41829)",MONTELIBANO,CORDOBA,Corregimiento Tierradentro,7.975145,-75.41829,Rural,2005,4,23466,23
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.00927111827, -76.7579726356)",LA VEGA,CAUCA,Vereda Guachicono,2.00927111827,-76.7579726356,Rural,1997,2,19397,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.270279, -73.865805)",MORALES,BOLIVAR,Corregimiento De Mico Ahumado,8.270279,-73.865805,Rural,2003,1,13473,13
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Sin informacion,5.965414,-75.10198,Rural,2003,6,5652,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.187512, -72.473284)",CHITA,BOYACA,Sin informacion,6.187512,-72.473284,Rural,2003,9,15183,15
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.087606, -70.75831)",ARAUCA,ARAUCA,Vereda Panama O Cano Salas,7.087606,-70.75831,Rural,2004,1,81001,81
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Vereda P30,8.639326,-72.735541,Rural,2004,1,54810,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Vereda P30,8.639326,-72.735541,Rural,2004,1,54810,54
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(6.963517, -75.41644)",YARUMAL,ANTIOQUIA,Sin informacion,6.963517,-75.41644,Rural,2003,7,5887,5
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(6.963517, -75.41644)",YARUMAL,ANTIOQUIA,Sin informacion,6.963517,-75.41644,Rural,2003,7,5887,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.187566, -74.993636)",SAN CARLOS,ANTIOQUIA,Vereda Buenos Aires,6.187566,-74.993636,Rural,2002,9,5649,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.181547, -76.052223)",TIERRALTA,CORDOBA,Sin informacion,8.181547,-76.052223,Rural,2008,2,23807,23
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.562992, -72.577719)",LABRANZAGRANDE,BOYACA,Vereda El Morro,5.562992,-72.577719,Rural,2002,9,15377,15
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(9.685015, -75.122094)",EL CARMEN DE BOLIVAR,BOLIVAR,Montes De Maria,9.685015,-75.122094,Rural,1996,6,13244,13
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Afrodescendiente,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Carretera Tame - Arauca,6.461209,-71.730855,Rural,2006,3,81794,81
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Afrodescendiente,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Carretera Tame - Arauca,6.461209,-71.730855,Rural,2006,3,81794,81
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(7.071255, -75.354566)",YARUMAL,ANTIOQUIA,Sin informacion,7.071255,-75.354566,Rural,2006,7,5887,5
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(7.071255, -75.354566)",YARUMAL,ANTIOQUIA,Sin informacion,7.071255,-75.354566,Rural,2006,7,5887,5
+Mujer,Menor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(7.071255, -75.354566)",YARUMAL,ANTIOQUIA,Sin informacion,7.071255,-75.354566,Rural,2006,7,5887,5
+Mujer,Menor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(7.071255, -75.354566)",YARUMAL,ANTIOQUIA,Sin informacion,7.071255,-75.354566,Rural,2006,7,5887,5
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(4.206348, -76.162167)",BUGALAGRANDE,VALLE DEL CAUCA,Parque De Galicia,4.206348,-76.162167,Rural,1999,5,76113,76
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.570034, -75.32675)",EL PAUJIL,CAQUETA,Vereda Libano,1.570034,-75.32675,Rural,2002,2,18256,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Sector Urbano Plaza Principal,6.058001,-75.185085,Urbana,2002,5,5197,5
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(6.315899, -76.134258)",URRAO,ANTIOQUIA,Vereda Chaque,6.315899,-76.134258,Rural,2003,2,5847,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.483919, -73.933361)",SAN PABLO,BOLIVAR,Vereda Tanacue,7.483919,-73.933361,Rural,2003,2,13670,13
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.628192, -77.459098)",POLICARPA,NARINO,Sin informacion,1.628192,-77.459098,Rural,2006,3,52540,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Vereda Punto 30 Cerca De La Escuela,8.639326,-72.735541,Rural,2004,1,54810,54
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.620222, -75.093083)",NATAGAIMA,TOLIMA,Vereda La Palmita,3.620222,-75.093083,Rural,2002,8,73483,73
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(3.330204, -73.903137)",SAN JUAN DE ARAMA,META,Vereda Penas Blancas,3.330204,-73.903137,Rural,2005,5,50683,50
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.136617, -75.264829)",SANTUARIO,ANTIOQUIA,Sin informacion,6.136617,-75.264829,Rural,2000,8,5697,5
+Mujer,Menor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(8.689091, -73.665121)",PELAYA,CESAR,Vereda Singarare,8.689091,-73.665121,Rural,2001,2,20550,20
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2005,10,76275,76
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(8.296544, -74.473165)",MONTECRISTO,BOLIVAR,Vereda Mala Noche,8.296544,-74.473165,Rural,2001,12,13458,13
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.233389, -73.870988)",SAN JUAN DE ARAMA,META,Carretera Via Costa Rica,3.233389,-73.870988,Rural,2006,3,50683,50
+Mujer,Mayor de 18 anos,Muerto,Agricultura,Civil,no,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Mitu - Via Bocatoma,1.249969,-70.235462,Rural,2002,8,97001,97
+Mujer,Menor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Mitu - Via Bocatoma,1.249969,-70.235462,Rural,2002,8,97001,97
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.539477, -74.897326)",DOLORES,TOLIMA,Sin informacion,3.539477,-74.897326,Urbana,2002,7,73236,73
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.792924, -71.770658)",FORTUL,ARAUCA,"Vereda Birmania, Finca El Tesoro",6.792924,-71.770658,Rural,2006,7,81300,81
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(11.267972, -73.306402)",DIBULLA,LA GUAJIRA,Cuenca Del Rio Palomino,11.267972,-73.306402,Rural,2006,3,44090,44
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.170833, -76.708333)",LA SIERRA,CAUCA,Vereda El Salado,2.170833,-76.708333,Urbana,2002,12,19392,19
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.151103, -73.960141)",EL COPEY,CESAR,"Barrio Nelson Mandela, Sector La Virgen Del Carmen",10.151103,-73.960141,Rural,2002,4,20238,20
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2008,1,52678,52
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(8.40286, -73.207765)",SAN CALIXTO,NORTE DE SANTANDER,Sin informacion,8.40286,-73.207765,Urbana,2001,5,54670,54
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(2.120008, -74.768227)",SAN VICENTE DEL CAGUAN,CAQUETA,Vereda Los Andes,2.120008,-74.768227,Rural,2005,3,18753,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.483919, -73.933361)",SAN PABLO,BOLIVAR,Vereda Santo Domingo,7.483919,-73.933361,Rural,2001,4,13670,13
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.00927111827, -76.7579726356)",LA VEGA,CAUCA,"Corregimiento De Albania, Sector Aledano A La Escu",2.00927111827,-76.7579726356,Rural,2001,3,19397,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(2.00927111827, -76.7579726356)",LA VEGA,CAUCA,"Corregimiento De Albania, Sector Aledano A La Escu",2.00927111827,-76.7579726356,Rural,2001,3,19397,19
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Sin informacion,5.965414,-75.10198,Rural,2001,8,5652,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.187566, -74.993636)",SAN CARLOS,ANTIOQUIA,Sin informacion,6.187566,-74.993636,Urbana,2000,6,5649,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.187566, -74.993636)",SAN CARLOS,ANTIOQUIA,Sin informacion,6.187566,-74.993636,Urbana,2000,6,5649,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.34064285518, -75.5602394835)",BELLO,ANTIOQUIA,Barrio Prado Cra. 44 No. 55-12,6.34064285518,-75.5602394835,Urbana,1995,9,5088,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(9.361663, -73.608403)",CHIRIGUANA,CESAR,Sin informacion,9.361663,-73.608403,Urbana,1992,6,20178,20
+Mujer,Menor de 18 anos,Muerto,Manipulacion,Civil,no,Sin informacion,"(9.361663, -73.608403)",CHIRIGUANA,CESAR,Sin informacion,9.361663,-73.608403,Urbana,1992,6,20178,20
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda El Jordan,1.49494421255,-75.4630895064,Rural,2005,8,18410,18
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(3.251737, -76.228589)",MIRANDA,CAUCA,Sin informacion,3.251737,-76.228589,Rural,2008,5,19455,19
+Mujer,Menor de 18 anos,Herido,Trabajos de casa,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,"Palmor, Sierra Nevada",10.99492,-74.225174,Rural,2002,6,47189,47
+Mujer,Menor de 18 anos,Muerto,Jugando,Civil,no,Sin informacion,"(4.565768, -74.953284)",ALVARADO,TOLIMA,Vereda La Tigrera,4.565768,-74.953284,Rural,2002,12,73026,73
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.081507, -73.221319)",ABREGO,NORTE DE SANTANDER,Vereda La Pacho,8.081507,-73.221319,Rural,2002,8,54003,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.741966, -73.048606)",CACHIRA,NORTE DE SANTANDER,El Carbon,7.741966,-73.048606,Rural,2001,12,54128,54
+Mujer,Menor de 18 anos,Muerto,Manipulacion,Civil,no,Sin informacion,"(9.794433, -74.792198)",PLATO,MAGDALENA,"Corregimiento La Estrella, Finca El Pacifico",9.794433,-74.792198,Rural,2006,3,47555,47
+Mujer,Menor de 18 anos,Muerto,Manipulacion,Civil,no,Sin informacion,"(9.794433, -74.792198)",PLATO,MAGDALENA,"Corregimiento La Estrella, Finca El Pacifico",9.794433,-74.792198,Rural,2006,3,47555,47
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(9.794433, -74.792198)",PLATO,MAGDALENA,"Corregimiento La Estrella, Finca El Pacifico",9.794433,-74.792198,Rural,2006,3,47555,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sitio La Portada,1.621012,-75.619118,Rural,1996,2,18001,18
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sitio La Portada,1.621012,-75.619118,Rural,1996,2,18001,18
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sitio La Portada,1.621012,-75.619118,Rural,1996,2,18001,18
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sitio La Portada,1.621012,-75.619118,Rural,1996,2,18001,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Fortul,6.461209,-71.730855,Rural,1997,4,81794,81
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Fortul,6.461209,-71.730855,Rural,1997,4,81794,81
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.411801, -74.989572)",SAMANA,CALDAS,Vereda La Tulia,5.411801,-74.989572,Rural,2005,4,17662,17
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda Baja Palestina,1.49494421255,-75.4630895064,Rural,2006,9,18410,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda Baja Palestina,1.49494421255,-75.4630895064,Rural,2006,9,18410,18
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(4.813594, -75.693951)",PEREIRA,RISARALDA,"Sector Galeria, Carrera 9 Con Calle 15,",4.813594,-75.693951,Urbana,2002,10,66001,66
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(4.565768, -74.953284)",ALVARADO,TOLIMA,Vereda Laguneta,4.565768,-74.953284,Rural,2004,11,73026,73
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(4.565768, -74.953284)",ALVARADO,TOLIMA,Vereda Laguneta,4.565768,-74.953284,Rural,2004,11,73026,73
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Sin informacion,"(2.939542, -73.207891)",PUERTO RICO,META,Vereda Cano Blanco,2.939542,-73.207891,Rural,2006,2,50590,50
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sin informacion,1.621012,-75.619118,Rural,2007,5,18001,18
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sin informacion,1.621012,-75.619118,Rural,2007,5,18001,18
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.083016, -72.801023)",SARDINATA,NORTE DE SANTANDER,Vereda Caldasia,8.083016,-72.801023,Rural,2004,2,54720,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.270279, -73.865805)",MORALES,BOLIVAR,Cerro Azul,8.270279,-73.865805,Rural,2002,12,13473,13
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(0.424591, -76.905657)",VALLE DEL GUAMUEZ,PUTUMAYO,Sin informacion,0.424591,-76.905657,Rural,2005,9,86865,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(4.300691, -74.615263)",NILO,CUNDINAMARCA,Sin informacion,4.300691,-74.615263,Urbana,2004,1,25488,25
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(4.877547, -74.466984)",GUAYABAL DE SIQUIMA,CUNDINAMARCA,Vereda De Torres,4.877547,-74.466984,Rural,2002,8,25328,25
+Mujer,Mayor de 18 anos,Muerto,Otra,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Sin informacion,6.143703,-75.185183,Rural,2004,6,5313,5
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.180721, -67.50075)",PUERTO CARRENO,VICHADA,Cumaribo Y Puerto Carreno,6.180721,-67.50075,Rural,2006,2,99001,99
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.939542, -73.207891)",PUERTO RICO,META,Sin informacion,2.939542,-73.207891,Rural,2003,8,50590,50
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.703536, -73.509679)",EL CARMEN,SANTANDER,Vereda La Ye,6.703536,-73.509679,Rural,1992,6,68235,68
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Sin informacion,6.143703,-75.185183,Rural,2005,4,5313,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.703536, -73.509679)",EL CARMEN,SANTANDER,Santo Domingo,6.703536,-73.509679,Rural,1992,3,68235,68
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(7.083056, -75.338056)",YARUMAL,ANTIOQUIA,Finca La Cabana,7.083056,-75.338056,Rural,2001,8,5887,5
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(5.658788, -72.501715)",PISBA,BOYACA,Vereda Platanales,5.658788,-72.501715,Rural,2002,3,15550,15
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.658788, -72.501715)",PISBA,BOYACA,Vereda Platanales,5.658788,-72.501715,Rural,2002,3,15550,15
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.120008, -74.768227)",SAN VICENTE DEL CAGUAN,CAQUETA,Vereda Los Andes,2.120008,-74.768227,Rural,2005,3,18753,18
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.353927, -72.42004)",YOPAL,CASANARE,Sin informacion,5.353927,-72.42004,Rural,1993,8,85001,85
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.353927, -72.42004)",YOPAL,CASANARE,Sin informacion,5.353927,-72.42004,Rural,1993,8,85001,85
+Mujer,Menor de 18 anos,Muerto,Otra,Civil,no,Sin informacion,"(5.31577, -75.799328)",GUATICA,RISARALDA,Vereda Tarqui,5.31577,-75.799328,Rural,1998,6,66318,66
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(1.678015, -75.284447)",EL DONCELLO,CAQUETA,"Vereda La Arenosa, Entrada A La Finca El Carmen",1.678015,-75.284447,Rural,2002,3,18247,18
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.678015, -75.284447)",EL DONCELLO,CAQUETA,"Vereda La Arenosa, Entrada A La Finca El Carmen",1.678015,-75.284447,Rural,2002,3,18247,18
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda El Jordan,1.49494421255,-75.4630895064,Rural,2005,8,18410,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.073333, -75.147222)",ANORI,ANTIOQUIA,Sin informacion,7.073333,-75.147222,Rural,2007,12,5040,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.317122, -73.016985)",MATANZA,SANTANDER,Vereda Libano,7.317122,-73.016985,Rural,2002,5,68444,68
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.187566, -74.993636)",SAN CARLOS,ANTIOQUIA,Sin informacion,6.187566,-74.993636,Rural,2004,9,5649,5
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(7.171637, -75.764403)",ITUANGO,ANTIOQUIA,Vereda Guacharaquero,7.171637,-75.764403,Rural,2004,4,5361,5
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Barrio Belencito Corazon,6.229209,-75.564887,Urbana,2003,3,5001,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Barrio Belencito Corazon,6.229209,-75.564887,Urbana,2003,3,5001,5
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Barrio Belencito Corazon,6.229209,-75.564887,Urbana,2003,3,5001,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.751363, -76.025341)",CANASGORDAS,ANTIOQUIA,Vereda La Loma,6.751363,-76.025341,Rural,1995,6,5138,5
+Mujer,Menor de 18 anos,Muerto,Jugando,Civil,no,Sin informacion,"(6.751363, -76.025341)",CANASGORDAS,ANTIOQUIA,Vereda La Loma,6.751363,-76.025341,Rural,1995,6,5138,5
+Mujer,Menor de 18 anos,Muerto,Manipulacion,Civil,no,Sin informacion,"(6.751363, -76.025341)",CANASGORDAS,ANTIOQUIA,Vereda Membrillal,6.751363,-76.025341,Rural,2006,5,5138,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.885866, -75.335458)",ANGOSTURA,ANTIOQUIA,Vereda La Munoz,6.885866,-75.335458,Rural,2004,3,5038,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.628192, -77.459098)",POLICARPA,NARINO,Sin informacion,1.628192,-77.459098,Rural,2006,12,52540,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Cerca Al Sector De La Gabarra,8.639326,-72.735541,Rural,2003,11,54810,54
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.335258, -74.843733)",CARTAGENA DEL CHAIRA,CAQUETA,Sector La Playa Los Corrales,1.335258,-74.843733,Rural,1997,10,18150,18
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.64746, -77.579056)",CUMBITARA,NARINO,Vereda Santa Ana,1.64746,-77.579056,Rural,2006,10,52233,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.64746, -77.579056)",CUMBITARA,NARINO,Vereda Santa Ana,1.64746,-77.579056,Rural,2006,10,52233,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.910034, -75.541233)",MONTEBELLO,ANTIOQUIA,Vereda San Antonio,5.910034,-75.541233,Rural,2004,2,5467,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.910034, -75.541233)",MONTEBELLO,ANTIOQUIA,Vereda San Antonio,5.910034,-75.541233,Rural,2004,2,5467,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.910034, -75.541233)",MONTEBELLO,ANTIOQUIA,Vereda San Antonio,5.910034,-75.541233,Rural,2004,2,5467,5
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Sin informacion,"(7.280825, -72.968306)",CHARTA,SANTANDER,Pantanos,7.280825,-72.968306,Rural,2003,3,68169,68
+Mujer,Mayor de 18 anos,Herido,Viajando,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Vereda Los Guacales,5.965414,-75.10198,Rural,2004,8,5652,5
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(1.68305192469, -76.5770062302)",SANTA ROSA,CAUCA,Vereda San Andres,1.68305192469,-76.5770062302,Rural,2003,6,19701,19
+Mujer,Mayor de 18 anos,Muerto,Agricultura,Civil,no,Sin informacion,"(6.703536, -73.509679)",EL CARMEN,SANTANDER,Vereda El Filan,6.703536,-73.509679,Rural,1994,1,68235,68
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.437292, -77.111288)",RIOSUCIO,CHOCO,Sin informacion,7.437292,-77.111288,Rural,2002,9,27615,27
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda La Paloma,2.451476,-76.810904,Rural,2005,8,19256,19
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(8.258548, -73.100907)",HACARI,NORTE DE SANTANDER,Sin informacion,8.258548,-73.100907,Rural,2001,3,54344,54
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Comunidad De Tallambi,0.906258,-77.792061,Rural,2007,4,52227,52
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Comunidad De Tallambi,0.906258,-77.792061,Rural,2007,4,52227,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Comunidad De Tallambi,0.906258,-77.792061,Rural,2007,4,52227,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(10.4205386395, -73.5849947181)",PUEBLO BELLO,CESAR,Sierra Nevada,10.4205386395,-73.5849947181,Rural,2002,11,20570,20
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(10.4205386395, -73.5849947181)",PUEBLO BELLO,CESAR,Sierra Nevada,10.4205386395,-73.5849947181,Rural,2002,11,20570,20
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(10.99492, -74.225174)",CIENAGA,MAGDALENA,Vereda Sevillano,10.99492,-74.225174,Rural,1997,2,47189,47
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Sin informacion,6.058001,-75.185085,Rural,2002,12,5197,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Sin informacion,6.058001,-75.185085,Rural,2002,12,5197,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.601816, -76.971412)",LA CRUZ,NARINO,Vereda Tajunbina,1.601816,-76.971412,Rural,2005,9,52378,52
+Mujer,Menor de 18 anos,Muerto,Manipulacion,Civil,no,Sin informacion,"(5.237227, -75.784234)",ANSERMA,CALDAS,Vereda La Rica,5.237227,-75.784234,Rural,2001,1,17042,17
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(5.666284, -75.714279)",TAMESIS,ANTIOQUIA,Vereda Corozal,5.666284,-75.714279,Rural,1992,11,5789,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.666284, -75.714279)",TAMESIS,ANTIOQUIA,Vereda Corozal,5.666284,-75.714279,Rural,1992,11,5789,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.939542, -73.207891)",PUERTO RICO,META,Finca Las Lanchas,2.939542,-73.207891,Rural,2003,7,50590,50
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.939542, -73.207891)",PUERTO RICO,META,Finca Las Lanchas,2.939542,-73.207891,Rural,2003,7,50590,50
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,"Vereda Cano Amarillo, Finca Laureles",3.125088,-73.752373,Rural,2006,11,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.59606, -75.013537)",YOLOMBO,ANTIOQUIA,Vereda La Floresta,6.59606,-75.013537,Rural,2002,9,5890,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Sin informacion,5.965414,-75.10198,Rural,2003,8,5652,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.83868, -76.768311)",SAN SEBASTIAN,CAUCA,Sin informacion,1.83868,-76.768311,Rural,2001,10,19693,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.371953, -72.982441)",SURATA,SANTANDER,Vereda El Mohan,7.371953,-72.982441,Rural,2002,3,68780,68
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.371953, -72.982441)",SURATA,SANTANDER,Vereda El Mohan,7.371953,-72.982441,Rural,2002,3,68780,68
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.483919, -73.933361)",SAN PABLO,BOLIVAR,Sin informacion,7.483919,-73.933361,Rural,2003,2,13670,13
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(4.155378, -73.624479)",VILLAVICENCIO,META,Boscosa Del Cano San Jose,4.155378,-73.624479,Rural,2007,3,50001,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.47917, -73.257644)",SOCORRO,SANTANDER,Sin informacion,6.47917,-73.257644,Rural,1990,1,68755,68
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Sin informacion,6.229209,-75.564887,Urbana,1999,3,5001,5
+Mujer,Menor de 18 anos,Muerto,Jugando,Civil,no,Sin informacion,"(4.634498, -75.091715)",ANZOATEGUI,TOLIMA,Vereda El Brillante,4.634498,-75.091715,Rural,2002,12,73043,73
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.335258, -74.843733)",CARTAGENA DEL CHAIRA,CAQUETA,Vereda Doce De Octubre,1.335258,-74.843733,Rural,2005,8,18150,18
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.760003, -75.114348)",ARGELIA,ANTIOQUIA,Vereda Santa Ines,5.760003,-75.114348,Rural,2005,5,5055,5
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Vereda San Martin,6.058001,-75.185085,Rural,2004,4,5197,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,San Lorenzo,5.965414,-75.10198,Rural,2003,10,5652,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Vereda Barrancos,2.564079,-72.640033,Rural,2007,2,95001,95
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Sin informacion,8.639326,-72.735541,Rural,2005,5,54810,54
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Loco,3.125088,-73.752373,Rural,2005,7,50711,50
+Mujer,Mayor de 18 anos,Muerto,Trabajos de casa,Civil,no,Sin informacion,"(1.707444, -76.576094)",SANTA ROSA,CAUCA,Sin informacion,1.707444,-76.576094,Rural,2003,12,19701,19
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(7.171637, -75.764403)",ITUANGO,ANTIOQUIA,Sin informacion,7.171637,-75.764403,Rural,2008,1,5361,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Boqueron,6.058001,-75.185085,Rural,2004,7,5197,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.042723, -74.994899)",SAN LUIS,ANTIOQUIA,Sin informacion,6.042723,-74.994899,Rural,2004,9,5660,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda La Estrella,2.955399,-76.268615,Rural,1999,5,19821,19
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.665416, -76.680413)",CHIGORODO,ANTIOQUIA,Finca Carambolos,7.665416,-76.680413,Rural,1996,1,5172,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.665416, -76.680413)",CHIGORODO,ANTIOQUIA,Finca Carambolos,7.665416,-76.680413,Rural,1996,1,5172,5
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.522444, -75.313361)",ALGECIRAS,HUILA,Sin informacion,2.522444,-75.313361,Urbana,2005,10,41020,41
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.522444, -75.313361)",ALGECIRAS,HUILA,Sin informacion,2.522444,-75.313361,Urbana,2005,10,41020,41
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.522444, -75.313361)",ALGECIRAS,HUILA,Sin informacion,2.522444,-75.313361,Urbana,2005,10,41020,41
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.963517, -75.41644)",YARUMAL,ANTIOQUIA,Vereda La Cordillera,6.963517,-75.41644,Rural,2006,11,5887,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.10514146815, -73.1169958185)",BUCARAMANGA,SANTANDER,Barrio La Esperanza Tercera Etapa.,7.10514146815,-73.1169958185,Urbana,1999,9,68001,68
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(7.10514146815, -73.1169958185)",BUCARAMANGA,SANTANDER,Barrio La Esperanza Tercera Etapa.,7.10514146815,-73.1169958185,Urbana,1999,9,68001,68
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.335258, -74.843733)",CARTAGENA DEL CHAIRA,CAQUETA,Sin informacion,1.335258,-74.843733,Rural,1996,6,18150,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.335258, -74.843733)",CARTAGENA DEL CHAIRA,CAQUETA,Sin informacion,1.335258,-74.843733,Rural,1996,6,18150,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.335258, -74.843733)",CARTAGENA DEL CHAIRA,CAQUETA,Sin informacion,1.335258,-74.843733,Rural,1996,6,18150,18
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(1.335258, -74.843733)",CARTAGENA DEL CHAIRA,CAQUETA,Sin informacion,1.335258,-74.843733,Rural,1996,6,18150,18
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Finca La Reforma,3.125088,-73.752373,Rural,2004,3,50711,50
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Vereda Chamorro,5.965414,-75.10198,Rural,2005,3,5652,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.965414, -75.10198)",SAN FRANCISCO,ANTIOQUIA,Vereda Chamorro,5.965414,-75.10198,Rural,2005,3,5652,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.09915965147, -76.7392323702)",TURBO,ANTIOQUIA,Sin informacion,8.09915965147,-76.7392323702,Rural,2004,7,5837,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.82091, -76.526736)",RESTREPO,VALLE DEL CAUCA,Sin informacion,3.82091,-76.526736,Rural,2000,1,76606,76
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(5.460133, -74.667938)",LA DORADA,CALDAS,Barrio Ferromejico,5.460133,-74.667938,Urbana,2004,7,17380,17
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(6.958339, -71.878277)",SARAVENA,ARAUCA,Vereda Barrancones,6.958339,-71.878277,Rural,2005,7,81736,81
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(8.574766, -73.097044)",EL TARRA,NORTE DE SANTANDER,"El Receptor , La Victoria",8.574766,-73.097044,Rural,2003,3,54250,54
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.490632, -74.867778)",ZARAGOZA,ANTIOQUIA,Sin informacion,7.490632,-74.867778,Rural,2001,4,5895,5
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(7.031667, -74.704167)",REMEDIOS,ANTIOQUIA,Sin informacion,7.031667,-74.704167,Rural,2001,7,5604,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(4.680486, -74.146592)",Bogota DC,BOGOTA DC,Barrio El Codito Cll. 182 Con Cra. 26,4.680486,-74.146592,Urbana,1997,8,11001,11
+Mujer,Mayor de 18 anos,Muerto,Otra,Civil,no,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Vereda Cielo,2.564079,-72.640033,Rural,2003,7,95001,95
+Mujer,Mayor de 18 anos,Herido,Trabajos de casa,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Comunidad Indigena Resguardo Julieros,6.461209,-71.730855,Rural,2005,2,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.30867, -73.853427)",SAN JUAN DE ARAMA,META,Trocha 32,3.30867,-73.853427,Rural,2006,2,50683,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.00927111827, -76.7579726356)",LA VEGA,CAUCA,Corregimiento De Albania,2.00927111827,-76.7579726356,Rural,2001,5,19397,19
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(4.680486, -74.146592)",Bogota DC,BOGOTA DC,Avenida Al Llano Kilometro 0,4.680486,-74.146592,Rural,2006,4,11001,11
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Sin informacion,6.229209,-75.564887,Urbana,1991,4,5001,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Sin informacion,6.229209,-75.564887,Urbana,1991,4,5001,5
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(8.09915965147, -76.7392323702)",TURBO,ANTIOQUIA,Rio Currulao,8.09915965147,-76.7392323702,Urbana,1998,12,5837,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.09915965147, -76.7392323702)",TURBO,ANTIOQUIA,Rio Currulao,8.09915965147,-76.7392323702,Urbana,1998,12,5837,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(4.95285172579, -76.6176171246)",NOVITA,CHOCO,Sitio Rio Tarena,4.95285172579,-76.6176171246,Rural,2005,4,27491,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.493975, -77.521244)",LOS ANDES,NARINO,Vereda La Planta,1.493975,-77.521244,Rural,2005,3,52418,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.493975, -77.521244)",LOS ANDES,NARINO,Vereda La Planta,1.493975,-77.521244,Rural,2005,3,52418,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Vereda Las Nubes,6.461209,-71.730855,Rural,2005,8,81794,81
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.10514146815, -73.1169958185)",BUCARAMANGA,SANTANDER,Cai Barrio Inem,7.10514146815,-73.1169958185,Urbana,2003,1,68001,68
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Corregimiento El Sande,1.22182,-77.677265,Rural,2007,3,52699,52
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(4.680486, -74.146592)",Bogota DC,BOGOTA DC,Barrio Perdomo,4.680486,-74.146592,Urbana,2002,9,11001,11
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(6.187566, -74.993636)",SAN CARLOS,ANTIOQUIA,Vereda El Cerro,6.187566,-74.993636,Rural,2004,2,5649,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.089353, -73.783756)",VISTAHERMOSA,META,"Vereda Buna Vista, Sitio Cano 20",3.089353,-73.783756,Rural,2005,8,50711,50
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(0.885151, -77.504305)",PUERRES,NARINO,Barrio El Escritorio,0.885151,-77.504305,Urbana,1994,1,52573,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Sin informacion,6.143703,-75.185183,Rural,2003,6,5313,5
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Sin informacion,6.143703,-75.185183,Rural,2003,6,5313,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.669654, -77.011958)",SAN PABLO,NARINO,Sin informacion,1.669654,-77.011958,Rural,2006,3,52693,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.003528, -73.511231)",SAN MARTIN,CESAR,Finca Ventarron,8.003528,-73.511231,Rural,2002,8,20770,20
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Sin informacion,"(6.963517, -75.41644)",YARUMAL,ANTIOQUIA,Sin informacion,6.963517,-75.41644,Rural,2008,2,5887,5
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.522444, -75.313361)",ALGECIRAS,HUILA,Sin informacion,2.522444,-75.313361,Rural,2005,10,41020,41
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.171637, -75.764403)",ITUANGO,ANTIOQUIA,Sin informacion,7.171637,-75.764403,Rural,2002,4,5361,5
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda Buenavista,1.672216,-78.138537,Rural,2005,11,52079,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda Buena Vista,2.451476,-76.810904,Rural,2001,10,19256,19
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda Buena Vista,2.451476,-76.810904,Rural,2001,10,19256,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda Buena Vista,2.451476,-76.810904,Rural,2001,10,19256,19
+Mujer,Mayor de 18 anos,Herido,Trabajos de casa,Civil,no,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda Pandiguando,2.451476,-76.810904,Rural,2004,9,19256,19
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Vereda Cano Claro,6.461209,-71.730855,Rural,2008,2,81794,81
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Caminos,"(3.251737, -76.228589)",MIRANDA,CAUCA,"Vereda Cabildo Parte Alta, Corregimiento Potreritos",3.251737,-76.228589,Rural,2015,4,19455,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda Alta Arenosa,1.49494421255,-75.4630895064,Rural,2015,5,18410,18
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda Alta Arenosa,1.49494421255,-75.4630895064,Rural,2015,5,18410,18
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Vereda Alta Arenosa,1.49494421255,-75.4630895064,Rural,2015,5,18410,18
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Caminos,"(3.02021074118, -76.6347777536)",BUENOS AIRES,CAUCA,Vereda Aguas Claras,3.02021074118,-76.6347777536,Rural,2015,6,19110,19
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(3.02021074118, -76.6347777536)",BUENOS AIRES,CAUCA,Vereda Aguas Claras,3.02021074118,-76.6347777536,Rural,2015,6,19110,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.153331, -75.052789)",BARAYA,HUILA,Vereda La Reforma,3.153331,-75.052789,Rural,2003,12,41078,41
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Sin informacion,"(7.813524, -74.172696)",SANTA ROSA DEL SUR,BOLIVAR,Sitio La Y,7.813524,-74.172696,Rural,2000,1,13688,13
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(2.892158, -72.133961)",MAPIRIPAN,META,Sin informacion,2.892158,-72.133961,Rural,2008,9,50325,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Sin informacion,3.125088,-73.752373,Rural,2007,1,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.197458, -75.643224)",PLANADAS,TOLIMA,Sin informacion,3.197458,-75.643224,Rural,2005,12,73555,73
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.280311, -71.09961)",PUERTO RONDON,ARAUCA,Sin informacion,6.280311,-71.09961,Rural,2009,10,81591,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2010,3,52385,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.087606, -70.75831)",ARAUCA,ARAUCA,Sin informacion,7.087606,-70.75831,Rural,2007,2,81001,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2010,1,52385,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,7,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.143703, -75.185183)",GRANADA,ANTIOQUIA,Emergencia Municipio De Granada,6.143703,-75.185183,Rural,2006,7,5313,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.539477, -74.897326)",DOLORES,TOLIMA,Sin informacion,3.539477,-74.897326,Rural,2006,7,73236,73
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,En cerca a edificio residencial,"(3.896994, -76.281402)",BUGA,VALLE DEL CAUCA,Sin informacion,3.896994,-76.281402,Urbana,2010,4,76111,76
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.493975, -77.521244)",LOS ANDES,NARINO,Sin informacion,1.493975,-77.521244,Rural,2007,5,52418,52
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(10.4205386395, -73.5849947181)",PUEBLO BELLO,CESAR,Sin informacion,10.4205386395,-73.5849947181,Rural,2005,10,20570,20
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.330752, -72.62777)",EL RETORNO,GUAVIARE,Sin informacion,2.330752,-72.62777,Rural,2011,1,95025,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.023186, -71.384978)",ARAUQUITA,ARAUCA,Las Galaxias,7.023186,-71.384978,Rural,2007,7,81065,81
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.979151, -75.296386)",CAMPAMENTO,ANTIOQUIA,Sin informacion,6.979151,-75.296386,Rural,2006,4,5134,5
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(7.171637, -75.764403)",ITUANGO,ANTIOQUIA,Sin informacion,7.171637,-75.764403,Rural,2007,7,5361,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.963517, -75.41644)",YARUMAL,ANTIOQUIA,Sin informacion,6.963517,-75.41644,Rural,2006,7,5887,5
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Sin informacion,"(3.153331, -75.052789)",BARAYA,HUILA,Sin informacion,3.153331,-75.052789,Rural,2010,9,41078,41
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.330752, -72.62777)",EL RETORNO,GUAVIARE,Sin informacion,2.330752,-72.62777,Rural,2011,1,95025,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2010,1,52385,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Puente Camame,6.461209,-71.730855,Rural,2009,10,81794,81
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Emergencia Rio Telembi- Mun.Samaniego,1.337083,-77.59313,Rural,2006,4,52678,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.958453, -72.654146)",CALAMAR,GUAVIARE,Sin informacion,1.958453,-72.654146,Rural,2008,5,95015,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.380464, -73.878772)",SAN JUAN DE ARAMA,META,Sin informacion,3.380464,-73.878772,Rural,2009,7,50683,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.09915965147, -76.7392323702)",TURBO,ANTIOQUIA,Sin informacion,8.09915965147,-76.7392323702,Rural,2009,3,5837,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,El Cardon,6.461209,-71.730855,Rural,2009,12,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.012487, -71.296639)",CARURU,VAUPES,Sin informacion,1.012487,-71.296639,Rural,2007,10,97161,97
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Emergencia Rio Telembi- Mun.Samaniego,1.337083,-77.59313,Rural,2006,4,52678,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.023186, -71.384978)",ARAUQUITA,ARAUCA,Las Galaxias,7.023186,-71.384978,Rural,2007,9,81065,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.012487, -71.296639)",CARURU,VAUPES,Sin informacion,1.012487,-71.296639,Rural,2009,5,97161,97
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca a edificio residencial,"(6.461209, -71.730855)",TAME,ARAUCA,Sin informacion,6.461209,-71.730855,Urbana,2011,3,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.251737, -76.228589)",MIRANDA,CAUCA,Sin informacion,3.251737,-76.228589,Rural,2006,3,19455,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.087606, -70.75831)",ARAUCA,ARAUCA,Sin informacion,7.087606,-70.75831,Rural,2004,5,81001,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2010,4,52385,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Vereda El Molino,6.058001,-75.185085,Rural,2002,11,5197,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.36935176166211, -75.6251346621273)",ITUANGO,ANTIOQUIA,Vereda El Socorro,7.36935176166211,-75.6251346621273,Rural,2010,8,5361,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2011,2,52079,52
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(8.437183, -73.287706)",TEORAMA,NORTE DE SANTANDER,Vereda Vijagual,8.437183,-73.287706,Rural,2011,4,54800,54
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.934761, -77.305645)",LEIVA,NARINO,Sin informacion,1.934761,-77.305645,Rural,2011,3,52405,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.229209, -75.564887)",MEDELLIN,ANTIOQUIA,Parque San Antonio,6.229209,-75.564887,Rural,2002,11,5001,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.723381, -75.485633)",CHAPARRAL,TOLIMA,Vereda El Pelarco,3.723381,-75.485633,Rural,2006,8,73168,73
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.963275, -74.051674)",SANTA ROSA DEL SUR,BOLIVAR,Sin informacion,7.963275,-74.051674,Rural,2009,1,13688,13
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(5.709167, -75.310278)",SONSON,ANTIOQUIA,Sin informacion,5.709167,-75.310278,Rural,2005,12,5756,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2010,4,52385,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.958453, -72.654146)",CALAMAR,GUAVIARE,Sin informacion,1.958453,-72.654146,Rural,2010,3,95015,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.958453, -72.654146)",CALAMAR,GUAVIARE,Sin informacion,1.958453,-72.654146,Rural,2010,3,95015,95
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Sin informacion,8.639326,-72.735541,Rural,2011,6,54810,54
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Sin informacion,8.639326,-72.735541,Rural,2011,6,54810,54
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Sin informacion,8.639326,-72.735541,Rural,2011,6,54810,54
+Mujer,Mayor de 18 anos,Muerto,Agricultura,Civil,no,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,6,52835,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.33857191395, -76.497586542)",PURACE,CAUCA,Sin informacion,2.33857191395,-76.497586542,Rural,2011,6,19585,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(6.635169, -73.286803)",GALAN,SANTANDER,Sin informacion,6.635169,-73.286803,Rural,1997,2,68296,68
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Sin informacion,6.461209,-71.730855,Rural,2011,7,81794,81
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.790278, -75.4275)",ABEJORRAL,ANTIOQUIA,Vereda Pantano Negro,5.790278,-75.4275,Rural,2005,11,5002,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.849431, -75.816726)",SABANALARGA,ANTIOQUIA,Sabanalarga,6.849431,-75.816726,Rural,2010,6,5628,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.849431, -75.816726)",SABANALARGA,ANTIOQUIA,Sabanalarga,6.849431,-75.816726,Rural,2010,6,5628,5
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.883545, -75.670508)",PUERTO LIBERTADOR,CORDOBA,Sin informacion,7.883545,-75.670508,Rural,2011,7,23580,23
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.883545, -75.670508)",PUERTO LIBERTADOR,CORDOBA,Sin informacion,7.883545,-75.670508,Rural,2011,7,23580,23
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(1.033544, -75.918968)",CURILLO,CAQUETA,Sin informacion,1.033544,-75.918968,Rural,2012,2,18205,18
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(8.042731, -77.092107)",UNGUIA,CHOCO,Sin informacion,8.042731,-77.092107,Rural,2012,3,27800,27
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Veredas Cano Limon,6.461209,-71.730855,Rural,2012,2,81794,81
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2005,7,52612,52
+Mujer,Mayor de 18 anos,Muerto,Cuidado de animales,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,11,52612,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,7,52612,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,11,52612,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.66884276491, -78.1200542041)",BARBACOAS,NARINO,Vereda Chapul El Diviso,1.66884276491,-78.1200542041,Rural,2005,11,52079,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.64746, -77.579056)",CUMBITARA,NARINO,Santa Ana,1.64746,-77.579056,Rural,2006,10,52233,52
+Mujer,Menor de 18 anos,Muerto,Cuidado de animales,Civil,no,Sin informacion,"(1.64746, -77.579056)",CUMBITARA,NARINO,Santa Ana,1.64746,-77.579056,Rural,2006,10,52233,52
+Mujer,Mayor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.754906, -76.62914)",MORALES,CAUCA,Sin informacion,2.754906,-76.62914,Rural,2012,5,19473,19
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(4.176318, -74.532447)",ICONONZO,TOLIMA,La Vereda El Triunfo A La Vereda La Aurora,4.176318,-74.532447,Rural,2012,4,73352,73
+Mujer,Mayor de 18 anos,Muerto,Transito por via usual,Civil,no,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Sin informacion,0.502569,-76.49818,Rural,2012,5,86568,86
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.110615, -75.552104)",BRICENO,ANTIOQUIA,La Vereda La Americas,7.110615,-75.552104,Rural,2012,4,5107,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.07446355897, -75.149787734)",ANORI,ANTIOQUIA,Sin informacion,7.07446355897,-75.149787734,Rural,2010,5,5040,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,6,52835,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,6,52835,52
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2011,8,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.00927111827, -76.7579726356)",LA VEGA,CAUCA,Sin informacion,2.00927111827,-76.7579726356,Rural,1997,2,19397,19
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Sin informacion,"(3.380371, -74.042419)",MESETAS,META,Sin informacion,3.380371,-74.042419,Rural,2012,6,50330,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(3.723381, -75.485633)",CHAPARRAL,TOLIMA,Sin informacion,3.723381,-75.485633,Rural,2012,9,73168,73
+Mujer,Mayor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(3.723381, -75.485633)",CHAPARRAL,TOLIMA,Sin informacion,3.723381,-75.485633,Rural,2012,9,73168,73
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(3.723381, -75.485633)",CHAPARRAL,TOLIMA,Sin informacion,3.723381,-75.485633,Rural,2012,9,73168,73
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(6.06226331656, -75.1921380582)",COCORNA,ANTIOQUIA,Vereda La Palmirita,6.06226331656,-75.1921380582,Rural,2007,5,5197,5
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(0.311265, -76.017879)",PUERTO LEGUIZAMO,PUTUMAYO,Sin informacion,0.311265,-76.017879,Rural,2012,10,86573,86
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(0.311265, -76.017879)",PUERTO LEGUIZAMO,PUTUMAYO,Sin informacion,0.311265,-76.017879,Rural,2012,10,86573,86
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(8.51290653615, -73.4502246059)",EL CARMEN,NORTE DE SANTANDER,Vereda La Planada,8.51290653615,-73.4502246059,Rural,2012,10,54245,54
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(8.51290653615, -73.4502246059)",EL CARMEN,NORTE DE SANTANDER,Vereda La Planada,8.51290653615,-73.4502246059,Rural,2012,10,54245,54
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(8.51290653615, -73.4502246059)",EL CARMEN,NORTE DE SANTANDER,Vereda La Planada,8.51290653615,-73.4502246059,Rural,2012,10,54245,54
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(8.51290653615, -73.4502246059)",EL CARMEN,NORTE DE SANTANDER,Vereda La Planada,8.51290653615,-73.4502246059,Rural,2012,10,54245,54
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2012,5,76275,76
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Vereda La Lea,0.502569,-76.49818,Rural,2013,1,86568,86
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Fincas,"(3.380371, -74.042419)",MESETAS,META,"Vereda Alto El Gobernador, Finca La Esperanza",3.380371,-74.042419,Rural,2009,2,50330,50
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(10.420539, -73.584995)",PUEBLO BELLO,CESAR,Sin informacion,10.420539,-73.584995,Rural,2005,10,20570,20
+Mujer,Menor de 18 anos,Muerto,Transito por via usual,Civil,no,Sin informacion,"(7.110615, -75.552104)",BRICENO,ANTIOQUIA,El Orejon,7.110615,-75.552104,Rural,2013,2,5107,5
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.110615, -75.552104)",BRICENO,ANTIOQUIA,El Orejon,7.110615,-75.552104,Rural,2013,2,5107,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Vereda La Cabanita Corregimiento La Carmelita,0.502569,-76.49818,Rural,2013,3,86568,86
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Vereda La Cabanita Corregimiento La Carmelita,0.502569,-76.49818,Rural,2013,3,86568,86
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Pueblo Viejo,2.955399,-76.268615,Rural,1997,9,19821,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(3.125088, -73.752373)",VISTAHERMOSA,META,Vereda Cano Blanco,3.125088,-73.752373,Rural,2010,4,50711,50
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda San Joaquin,2.451476,-76.810904,Rural,2007,10,19256,19
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,Afrodescendiente,Sin informacion,"(5.370979, -76.605559)",CERTEGUI,CHOCO,Vereda Recta Larga,5.370979,-76.605559,Rural,2013,3,27160,27
+Mujer,Menor de 18 anos,Muerto,Transito por via usual,Civil,Afrodescendiente,Sin informacion,"(5.370979, -76.605559)",CERTEGUI,CHOCO,Vereda Recta Larga,5.370979,-76.605559,Rural,2013,3,27160,27
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(11.142762, -74.11693)",SANTA MARTA,MAGDALENA,"CORREGIMIENTO MINCA, VEREDA EL CAMPANO  LA FINCA MARIA TEREZA",11.142762,-74.11693,Rural,2013,4,47001,47
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(11.142762, -74.11693)",SANTA MARTA,MAGDALENA,"CORREGIMIENTO MINCA, VEREDA EL CAMPANO  LA FINCA MARIA TEREZA",11.142762,-74.11693,Rural,2013,4,47001,47
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Vereda Chimicueto,2.776824,-76.324799,Rural,2013,3,19364,19
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Afrodescendiente,Sin informacion,"(4.975875, -76.637604)",NOVITA,CHOCO,Vereda San Lorenzo,4.975875,-76.637604,Rural,2013,3,27491,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(7.110615, -75.552104)",BRICENO,ANTIOQUIA,El Orejon,7.110615,-75.552104,Rural,2013,2,5107,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.37516, -78.599308)",TUMACO,NARINO,Vereda Vallenato,1.37516,-78.599308,Rural,2013,7,52835,52
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,no,Sin informacion,"(1.27626472222222, -75.2111680555556)",MONTANITA,CAQUETA,Vereda Horizonte,1.27626472222222,-75.2111680555556,Rural,2008,6,18410,18
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.798347, -77.164402)",MERCADERES,CAUCA,Vereda Gana Plata,1.798347,-77.164402,Rural,2013,9,19450,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.181547, -76.052223)",TIERRALTA,CORDOBA,Vereda Panico Corregimiento Rio Verde,8.181547,-76.052223,Rural,2013,9,23807,23
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(3.17805555555556, -76.1947222222222)",CORINTO,CAUCA,Vereda San Pedro,3.17805555555556,-76.1947222222222,Rural,2013,8,19212,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(2.46286111111111, -75.2659972222222)",ALGECIRAS,HUILA,La Primavera,2.46286111111111,-75.2659972222222,Rural,2012,10,41020,41
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.214621, -72.869693)",CHAMEZA,CASANARE,Vereda Gurubita,5.214621,-72.869693,Rural,2002,12,85015,85
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(3.723381, -75.485633)",CHAPARRAL,TOLIMA,Sin informacion,3.723381,-75.485633,Rural,2012,9,73168,73
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(7.171637, -75.764403)",ITUANGO,ANTIOQUIA,Sin informacion,7.171637,-75.764403,Rural,2012,2,5361,5
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(5.154883, -76.685826)",ISTMINA,CHOCO,Corregimiento De Paito,5.154883,-76.685826,Rural,2006,5,27361,27
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,Sin informacion,"(5.154883, -76.685826)",ISTMINA,CHOCO,Corregimiento De Paito,5.154883,-76.685826,Rural,2006,5,27361,27
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.537256, -75.503544)",TARAZA,ANTIOQUIA,Corregimiento Guaimaro,7.537256,-75.503544,Rural,2004,3,5790,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.49494421255, -75.4630895064)",MONTANITA,CAQUETA,Montanita,1.49494421255,-75.4630895064,Rural,2004,2,18410,18
+Mujer,Mayor de 18 anos,Herido,Cuidado de animales,Civil,no,Fincas,"(6.46132627634, -71.7391810579)",TAME,ARAUCA,Sin informacion,6.46132627634,-71.7391810579,Rural,2014,1,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(2.12794539002, -74.7847134047)",SAN VICENTE DEL CAGUAN,CAQUETA,San Vicente Del Caguan,2.12794539002,-74.7847134047,Rural,2003,10,18753,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sin informacion,1.621012,-75.619118,Urbana,1995,11,18001,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.621012, -75.619118)",FLORENCIA,CAQUETA,Sin informacion,1.621012,-75.619118,Urbana,1995,11,18001,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Sin informacion,0.502569,-76.49818,Rural,2011,8,86568,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(7.01908689576, -71.4313870919)",ARAUQUITA,ARAUCA,Vereda De San Miguel,7.01908689576,-71.4313870919,Rural,2014,7,81065,81
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.789019, -72.772675)",TIBU,NORTE DE SANTANDER,Vereda La Primavera,8.789019,-72.772675,Rural,2011,6,54810,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(5.26466, -76.559733)",TADO,CHOCO,Vereda Angostura,5.26466,-76.559733,Rural,2014,8,27787,27
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Sin informacion,0.664866,-76.869171,Rural,1993,8,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Vereda La Cabanita Corregimiento La Carmelita,0.502569,-76.49818,Rural,2013,3,86568,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(-0.193382, -74.782646)",PUERTO LEGUIZAMO,PUTUMAYO,Sin informacion,-0.193382,-74.782646,Rural,2013,2,86573,86
+Mujer,Mayor de 18 anos,Herido,Mantenimiento de infraestructura,Civil,Indigena,Sin informacion,"(1.030552, -76.616386)",VILLAGARZON,PUTUMAYO,Vereda Las Rosas,1.030552,-76.616386,Rural,2013,7,86885,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(5.25698884838, -76.5535778177)",TADO,CHOCO,Vereda Tadena,5.25698884838,-76.5535778177,Rural,2014,8,27787,27
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Buenavista,1.337083,-77.59313,Rural,2010,3,52678,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.493975, -77.521244)",LOS ANDES,NARINO,Sin informacion,1.493975,-77.521244,Rural,2006,2,52418,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2010,1,52385,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.639326, -72.735541)",TIBU,NORTE DE SANTANDER,Vereda Kilometro Sesenta,8.639326,-72.735541,Rural,2005,5,54810,54
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.058001, -75.185085)",COCORNA,ANTIOQUIA,Vereda Santo Domingo,6.058001,-75.185085,Rural,2002,8,5197,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(4.176318, -74.532447)",ICONONZO,TOLIMA,Sin informacion,4.176318,-74.532447,Rural,2012,4,73352,73
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,no,Caminos,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Vereda Vallenato,1.79338584254,-78.7639364297,Rural,2015,2,52835,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,no,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,VEREDA AZUCAR,1.79338584254,-78.7639364297,Rural,2015,8,52835,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,VEREDA MIEDO,1.79338584254,-78.7639364297,Rural,2015,11,52835,52
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Fincas,"(3.03886263551, -76.4007854605)",CALOTO,CAUCA,VEREDA LA SELVA,3.03886263551,-76.4007854605,Rural,2015,10,19142,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,INDA ZABALETA,1.79338584254,-78.7639364297,Rural,2012,8,52835,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.33469474752, -77.5816943447)",SAMANIEGO,NARINO,PEDROSO,1.33469474752,-77.5816943447,Rural,2012,3,52678,52
+Mujer,Mayor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(1.51489641679, -77.0341818893)",SAN BERNARDO,NARINO,SANANDRESITO,1.51489641679,-77.0341818893,Rural,2012,2,52685,52
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,no,Sin informacion,"(1.51489641679, -77.0341818893)",SAN BERNARDO,NARINO,SANANDRESITO,1.51489641679,-77.0341818893,Rural,2012,2,52685,52
+Mujer,Menor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(4.17979079796, -74.5354223826)",ICONONZO,TOLIMA,EL TRIUNFO,4.17979079796,-74.5354223826,Rural,2012,4,73352,73
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(-0.17775748923, -74.7814805091)",PUERTO LEGUIZAMO,PUTUMAYO,PTO TOLIMA,-0.17775748923,-74.7814805091,Rural,2013,1,86573,86
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,no,Sin informacion,"(8.58341619035, -73.0921120209)",EL TARRA,NORTE DE SANTANDER,COMUNEROS,8.58341619035,-73.0921120209,Rural,2012,2,54250,54
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(8.08681225011, -72.8057631935)",SARDINATA,NORTE DE SANTANDER,SAN MARTIN DE LOBA,8.08681225011,-72.8057631935,Rural,2013,6,54720,54
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(0.69778782832, -76.8947720134)",ORITO,PUTUMAYO,BATERIA CHURUYACO,0.69778782832,-76.8947720134,Rural,2012,10,86320,86
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(0.69778782832, -76.8947720134)",ORITO,PUTUMAYO,BATERIA CHURUYACO,0.69778782832,-76.8947720134,Rural,2012,10,86320,86
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.46132627634, -71.7391810579)",TAME,ARAUCA,PUEBLO NUEVO,6.46132627634,-71.7391810579,Rural,2012,4,81794,81
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.11641849596, -75.5555451388)",BRICENO,ANTIOQUIA,LA AMERICA,7.11641849596,-75.5555451388,Rural,2012,4,5107,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.43390904426, -77.1211599008)",RIOSUCIO,CHOCO,CACANCA,7.43390904426,-77.1211599008,Rural,2012,2,27615,27
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(8.02946199345, -77.0995298944)",UNGUIA,CHOCO,RAICERO,8.02946199345,-77.0995298944,Rural,2012,8,27800,27
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.57670220012, -75.3435500815)",EL PAUJIL,CAQUETA,PORVENIR GALICIA,1.57670220012,-75.3435500815,Rural,2012,9,18256,18
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(7.1745424543, -75.7702545782)",ITUANGO,ANTIOQUIA,EL QUINDIO,7.1745424543,-75.7702545782,Rural,2012,12,5361,5
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,PENA CARANO,1.79338584254,-78.7639364297,Rural,2014,1,52835,52
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(9.72129628532, -75.1224120803)",EL CARMEN DE BOLIVAR,BOLIVAR,Sin informacion,9.72129628532,-75.1224120803,Rural,1992,1,13244,13
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,En cerca a edificio residencial,"(3.72667601111, -75.4846364338)",CHAPARRAL,TOLIMA,VEREDA GUADALA,3.72667601111,-75.4846364338,Rural,2016,8,73168,73
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Afrodescendiente,Caminos,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,Rio Evari corregimiento de Virudo,4.96934977553,-77.3691264748,Rural,2016,11,27077,27
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Afrodescendiente,Caminos,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,Rio Evari corregimiento de Virudo,4.96934977553,-77.3691264748,Rural,2016,11,27077,27
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Fincas,"(2.120008, -74.768227)",SAN VICENTE DEL CAGUAN,CAQUETA,VEREDA AGUAS CLARAS,2.120008,-74.768227,Rural,2017,1,18753,18
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,Fincas,"(2.120008, -74.768227)",SAN VICENTE DEL CAGUAN,CAQUETA,VEREDA AGUAS CLARAS,2.120008,-74.768227,Rural,2017,1,18753,18
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Viviendas abandonadas,"(6.40629285367, -75.1996896846)",CONCEPCION,ANTIOQUIA,VEREDA LA CLARA,6.40629285367,-75.1996896846,Rural,2017,4,5206,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(7.582546, -75.400212)",TARAZA,ANTIOQUIA,VEREDA EMBARETADO,7.582546,-75.400212,Rural,2017,9,5790,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.321825, -73.145699)",HACARI,NORTE DE SANTANDER,VEREDA LA ESPERANZA,8.321825,-73.145699,Rural,2017,10,54344,54
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(8.321825, -73.145699)",HACARI,NORTE DE SANTANDER,VEREDA LA ESPERANZA,8.321825,-73.145699,Rural,2017,10,54344,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.255802, -77.248947)",ARGELIA,CAUCA,vereda Platino Cauca,2.255802,-77.248947,Rural,1998,1,19050,19
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Afrodescendiente,En cerca a edificio residencial,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Sin informacion,1.79338584254,-78.7639364297,Rural,2018,3,52835,52
+Mujer,Mayor de 18 anos,Muerto,Manipulacion,Civil,no,En cerca a edificio residencial,"(9.49958784207, -75.3551408935)",COLOSO,SUCRE,VEREDA BRAZO SECO,9.49958784207,-75.3551408935,Rural,2018,3,70204,70
+Mujer,Mayor de 18 anos,Herido,Manipulacion,Civil,no,En cerca a edificio residencial,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Sin informacion,1.79338584254,-78.7639364297,Rural,2018,3,52835,52
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(2.77825723673, -76.3138774689)",JAMBALO,CAUCA,Sin informacion,2.77825723673,-76.3138774689,Rural,2018,6,19364,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca edificio gubernamental,"(6.78984904371, -71.7734500621)",FORTUL,ARAUCA,Sin informacion,6.78984904371,-71.7734500621,Rural,2018,8,81300,81
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca edificio gubernamental,"(6.78984904371, -71.7734500621)",FORTUL,ARAUCA,Sin informacion,6.78984904371,-71.7734500621,Rural,2018,8,81300,81
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Campo,"(6.78984904371, -71.7734500621)",FORTUL,ARAUCA,VEREDA CERRO ALTO,6.78984904371,-71.7734500621,Rural,2018,8,81300,81
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(5.36089528351, -74.3941408648)",LA PALMA,CUNDINAMARCA,VEREDA SABANETA,5.36089528351,-74.3941408648,Rural,2003,1,25394,25
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca a edificio residencial,"(8.08268001059, -73.2250370907)",ABREGO,NORTE DE SANTANDER,VEREDA SAN LUIS,8.08268001059,-73.2250370907,Rural,2018,6,54003,54
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca a edificio residencial,"(8.08268001059, -73.2250370907)",ABREGO,NORTE DE SANTANDER,VEREDA SAN LUIS,8.08268001059,-73.2250370907,Rural,2018,6,54003,54
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Campo,"(2.11933180763, -76.971302253)",PATIA,CAUCA,VEREDA YARUMAL,2.11933180763,-76.971302253,Rural,2019,2,19532,19
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(3.09515, -76.748927)",BUENOS AIRES,CAUCA,CORREGIMIENTO EL CERAL,3.09515,-76.748927,Rural,2020,1,19110,19
+Mujer,Menor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(3.09515, -76.748927)",BUENOS AIRES,CAUCA,CORREGIMIENTO EL CERAL,3.09515,-76.748927,Rural,2020,1,19110,19
+Mujer,Menor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,no,Caminos,"(8.64034695777, -72.7371300803)",TIBU,NORTE DE SANTANDER,BARRIO KENNEDY,8.64034695777,-72.7371300803,Rural,2020,4,54810,54
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,VEREDA COMUNIDAD DE LOREDO RIO MURINDO,6.97575693464,-76.8133196851,Rural,2020,5,5475,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(-0.6247222222222223, -72.38194444444444)",PUERTO SANTANDER,AMAZONAS,Corregimiento Puerto Santander,-0.624722222222222,-72.38194444444444,Rural,2014,3,91669,91
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.04052298214, -76.2775761027)",DABEIBA,ANTIOQUIA,VEREDA ANTADO ARENERA,7.04052298214,-76.2775761027,Rural,2020,8,5234,5
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.04052298214, -76.2775761027)",DABEIBA,ANTIOQUIA,VEREDA ANTADO ARENERA,7.04052298214,-76.2775761027,Rural,2020,8,5234,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Campo,"(1.65595434903, -77.5756000473)",CUMBITARA,NARINO,VEREDA GUAYABALITO,1.65595434903,-77.5756000473,Rural,2020,9,52233,52
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Caminos,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,"VEREDA PENALISA, RESGUARDO GRAN ROSARIO",1.79338584254,-78.7639364297,Rural,2020,10,52835,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(5.90093647924, -75.0165495738)",SAN FRANCISCO,ANTIOQUIA,VEREDA COMEJENES,5.90093647924,-75.0165495738,Rural,2003,8,5652,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Campo,"(6.07278281987, -75.0812145411)",GRANADA,ANTIOQUIA,VEREDA LAS PALMAS,6.07278281987,-75.0812145411,Rural,2007,9,5313,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca a edificio residencial,"(7.00354276948, -76.2664944687)",DABEIBA,ANTIOQUIA,VEREDA PALMICHALI,7.00354276948,-76.2664944687,Rural,1993,6,5234,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.882868, -77.010839)",BUENAVENTURA,VALLE DEL CAUCA,barrio juan XXIII Calle Llitoral,3.882868,-77.010839,Urbana,2021,2,76109,76
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Sin informacion,"(2.348168, -78.325827)",OLAYA HERRERA,NARINO,casco urbano,2.348168,-78.325827,Urbana,2020,6,52490,52
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Caminos,"(1.391421, -78.517269)",TUMACO,NARINO,VEREDA LLORENTE,1.391421,-78.517269,Rural,2020,12,52835,52
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Caminos,"(1.391421, -78.517269)",TUMACO,NARINO,VEREDA LLORENTE,1.391421,-78.517269,Rural,2020,12,52835,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.754411933, -76.4523059931)",DABEIBA,ANTIOQUIA,VEREDA COMUNIDAD DE JERATURADO,6.754411933,-76.4523059931,Rural,2021,3,5234,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,En cerca a edificio residencial,"(7.16237053273, -75.7932292839)",ITUANGO,ANTIOQUIA,VEREDA BUENA VISTA,7.16237053273,-75.7932292839,Rural,2020,12,5361,5
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Caminos,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA LA PAZ BAJO,2.34323302375,-72.6446028975,Rural,2021,6,95025,95
+Mujer,Menor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Caminos,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA LA PAZ BAJO,2.34323302375,-72.6446028975,Rural,2021,6,95025,95
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,COMUNIDAD BACHIDUVI,6.97575693464,-76.8133196851,Rural,2021,6,5475,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,COMUNIDAD BACHIDUVI,6.97575693464,-76.8133196851,Rural,2021,6,5475,5
+Mujer,Mayor de 18 anos,Muerto,Agricultura,Civil,Indigena,Campo,"(5.51886906427, -76.9758856167)",ALTO BAUDO,CHOCO,VEREDA PUERTO LUIS,5.51886906427,-76.9758856167,Rural,2021,10,27025,27
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Caminos,"(2.24716912869, -77.242189302)",ARGELIA,CAUCA,VEREDA LOS PICOS Y TAMBO LARGO,2.24716912869,-77.242189302,Rural,2021,10,19050,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.7442730905, -76.7086115052)",MURINDO,ANTIOQUIA,VEREDA COMUNIDAD CHIBUGADO,6.7442730905,-76.7086115052,Rural,2019,8,5475,5
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Campo,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,VEREDA CASAS VIEJAS COMUNIDAD ALTO MIRA Y FRONTERA,1.79338584254,-78.7639364297,Rural,2021,4,52835,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,no,Campo,"(7.90247668844, -72.4978964949)",CUCUTA,NORTE DE SANTANDER,CORREGIMIENTO BANCO DE ARENA,7.90247668844,-72.4978964949,Rural,2022,1,54001,54
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Mujer,Mayor de 18 anos,Herido,Otra,Civil,no,Caminos,"(6.5345500639, -73.174126965)",PINCHOTE,SANTANDER,VEREDA GRANJA EL CUCHARO EN PINCHOTE,6.5345500639,-73.174126965,Rural,2022,2,68549,68
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(3.882868, -77.010839)",BUENAVENTURA,VALLE DEL CAUCA,barrio juan XXIII Calle Llitoral,3.882868,-77.010839,Urbana,2021,2,76109,76
+Mujer,Mayor de 18 anos,Herido,Trabajos de casa,Civil,no,Campo,"(2.076582, -77.248909)",BALBOA,CAUCA,VEREDA EL CAIRO ALTO,2.076582,-77.248909,Rural,2022,8,19075,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,no,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,VEREDA LA ADUANA,1.79338584254,-78.7639364297,Rural,2013,11,52835,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Afrodescendiente,Campo,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,ALTO MIRA,1.79338584254,-78.7639364297,Rural,2022,12,52835,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Afrodescendiente,Campo,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,ALTO MIRA,1.79338584254,-78.7639364297,Rural,2022,12,52835,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.86964166453, -75.2182872901)",GUADALUPE,ANTIOQUIA,VEREDA SAN JUAN,6.86964166453,-75.2182872901,Rural,2022,3,5315,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.86964166453, -75.2182872901)",GUADALUPE,ANTIOQUIA,VEREDA SAN JUAN,6.86964166453,-75.2182872901,Rural,2022,3,5315,5
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.86964166453, -75.2182872901)",GUADALUPE,ANTIOQUIA,VEREDA SAN JUAN,6.86964166453,-75.2182872901,Rural,2022,3,5315,5
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(6.86964166453, -75.2182872901)",GUADALUPE,ANTIOQUIA,VEREDA SAN JUAN,6.86964166453,-75.2182872901,Rural,2022,3,5315,5
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Afrodescendiente,Fincas,"(1.603592, -78.853352)",TUMACO,NARINO,VEREDA SANTO DOMINGO,1.603592,-78.853352,Rural,2023,3,52835,52
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,no,Campo,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,VEREDA YAYAVIENDO,1.79338584254,-78.7639364297,Rural,2023,1,52835,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Afrodescendiente,Sin informacion,"(1.89888888888889, -78.0075)",MAGUI,NARINO,Sin informacion,1.89888888888889,-78.0075,Rural,2023,5,52427,52
+Mujer,Menor de 18 anos,Herido,Agricultura,Civil,no,Campo,"(2.31441546587, -78.3343454855)",OLAYA HERRERA,NARINO,VEREDA SAN JOSE LOS ROBLES,2.31441546587,-78.3343454855,Rural,2023,6,52490,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,no,Sin informacion,"(1.6850509191, -75.2951937075)",EL DONCELLO,CAQUETA,Sin informacion,1.6850509191,-75.2951937075,Rural,2023,6,18247,18

@@ -1,0 +1,489 @@
+genero,rangoedad,estado,Actividad,condicion,grupoetnico,tipoevento,Ubicación,municipio,departamento,sitio,latitudcabecera,longitudcabecera,tipoarea,ano,mes,codigodanemunicipio,codigodanedepartamento
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Mujer,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2009,12,52612,52
+Hombre,Mayor de 18 anos,Muerto,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2009,9,76275,76
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Vereda Cano Limon,6.461209,-71.730855,Rural,2009,2,81794,81
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.892158, -72.133961)",MAPIRIPAN,META,Sin informacion,2.892158,-72.133961,Rural,2010,1,50325,50
+Mujer,Mayor de 18 anos,Herido,Trabajos de casa,Civil,Indigena,Sin informacion,"(2.892158, -72.133961)",MAPIRIPAN,META,Sin informacion,2.892158,-72.133961,Rural,2010,1,50325,50
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(2.892158, -72.133961)",MAPIRIPAN,META,Sin informacion,2.892158,-72.133961,Rural,2010,1,50325,50
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(8.867215, -75.618582)",CIENAGA DE ORO,CORDOBA,Vereda Puente Seco,8.867215,-75.618582,Rural,2009,3,23189,23
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Sin informacion,1.22182,-77.677265,Rural,2008,5,52699,52
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Betania,1.337083,-77.59313,Rural,2009,4,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Betania,1.337083,-77.59313,Rural,2009,4,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Betania,1.337083,-77.59313,Rural,2009,4,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Betania,1.337083,-77.59313,Rural,2009,4,52678,52
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(7.81488164266844, -76.266101821506)",TIERRALTA,CORDOBA,El Toko,7.81488164266844,-76.266101821506,Rural,2010,5,23807,23
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2003,4,20001,20
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2003,4,20001,20
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2003,4,20001,20
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2003,4,20001,20
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Sin informacion,1.249969,-70.235462,Rural,2003,5,97001,97
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Sin informacion,1.249969,-70.235462,Rural,2003,5,97001,97
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Sin informacion,1.249969,-70.235462,Rural,2003,5,97001,97
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.249969, -70.235462)",MITU,VAUPES,Sin informacion,1.249969,-70.235462,Rural,2003,5,97001,97
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.68305192469, -76.5770062302)",SANTA ROSA,CAUCA,Sin informacion,1.68305192469,-76.5770062302,Rural,2003,6,19701,19
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.68305192469, -76.5770062302)",SANTA ROSA,CAUCA,Sin informacion,1.68305192469,-76.5770062302,Rural,2003,6,19701,19
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(10.447261, -73.246566)",VALLEDUPAR,CESAR,Sin informacion,10.447261,-73.246566,Rural,2003,10,20001,20
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.067, -78.083)",RICAURTE,NARINO,Las Vegas,1.067,-78.083,Rural,2007,7,52612,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.067, -78.083)",RICAURTE,NARINO,Las Vegas,1.067,-78.083,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.067, -78.083)",RICAURTE,NARINO,Las Vegas,1.067,-78.083,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.067, -78.083)",RICAURTE,NARINO,Las Vegas,1.067,-78.083,Rural,2007,7,52612,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(3.326599722870516, -76.23840542705598)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326599722870516,-76.23840542705598,Rural,2008,6,76275,76
+Mujer,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(3.0390778033060726, -76.41091202775247)",CALOTO,CAUCA,Sin informacion,3.039077803306073,-76.41091202775247,Rural,2008,8,19142,19
+Hombre,Mayor de 18 anos,Muerto,"Caza, pesca",Civil,Indigena,Sin informacion,"(7.590281505303088, -75.40544909882509)",TARAZA,ANTIOQUIA,Sin informacion,7.590281505303088,-75.40544909882509,Rural,2008,11,5790,5
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(11.716944444444444, -72.26694444444445)",URIBIA,LA GUAJIRA,Rancheria Jawuo,11.716944444444444,-72.26694444444445,Rural,2009,6,44847,44
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(11.545551308, -72.913443879)",RIOHACHA,LA GUAJIRA,Sin informacion,11.545551308,-72.913443879,Urbana,2009,7,44001,44
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.797838, -76.482784)",CALDONO,CAUCA,Sin informacion,2.797838,-76.482784,Rural,2010,6,19137,19
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Sin informacion,6.461209,-71.730855,Rural,2009,9,81794,81
+Hombre,Menor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Sin informacion,6.461209,-71.730855,Rural,2010,7,81794,81
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Finca Bonbonal,1.337083,-77.59313,Rural,2007,9,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Chuguldi,1.337083,-77.59313,Rural,2007,6,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Chuguldi,1.337083,-77.59313,Rural,2007,6,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Las Cochas,1.337083,-77.59313,Rural,2006,1,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Caminos,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2006,12,52385,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Finca Bonbonal,1.337083,-77.59313,Rural,2007,9,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Madrono,1.22182,-77.677265,Rural,2007,2,52699,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Carretera,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Buenavista,1.337083,-77.59313,Rural,2008,2,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,El Pedroso,1.337083,-77.59313,Rural,2005,1,52678,52
+Hombre,Mayor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,El Campanario,1.337083,-77.59313,Rural,2007,3,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,El Campanario,1.337083,-77.59313,Rural,2007,3,52678,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Los Andes,1.22182,-77.677265,Rural,2008,5,52699,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Los Andes,1.22182,-77.677265,Rural,2008,5,52699,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Los Andes,1.22182,-77.677265,Rural,2008,5,52699,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Los Andes,1.22182,-77.677265,Rural,2008,5,52699,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda El Bravo,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda El Bravo,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Municipio De La Llanada,1.337083,-77.59313,Rural,2006,11,52678,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Paloma,1.337083,-77.59313,Rural,2008,2,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Bajo Canada,1.337083,-77.59313,Rural,2007,3,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Mosqueral,1.337083,-77.59313,Rural,2006,4,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Las Cochas,1.337083,-77.59313,Rural,2006,1,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Las Cochas,1.337083,-77.59313,Rural,2006,1,52678,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Varazon,1.22182,-77.677265,Rural,2007,2,52699,52
+Hombre,Mayor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Carretera,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda El Vergel,1.337083,-77.59313,Rural,2007,3,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.120008, -74.768227)",SAN VICENTE DEL CAGUAN,CAQUETA,Vereda Las Morras,2.120008,-74.768227,Rural,2009,4,18753,18
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,en sobre cerca rivera de un rio,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2009,1,95001,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda La Barazon,1.22182,-77.677265,Rural,2009,4,52699,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Finca La Florida,1.22182,-77.677265,Rural,2009,5,52699,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Sin informacion,1.22182,-77.677265,Rural,2008,10,52699,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda El Bravo,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,12,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,3,52612,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(11.71484, -72.265963)",URIBIA,LA GUAJIRA,Rancheria Jawuo,11.71484,-72.265963,Rural,2009,6,44847,44
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(11.71484, -72.265963)",URIBIA,LA GUAJIRA,Rancheria Jawuo,11.71484,-72.265963,Rural,2009,6,44847,44
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(11.71484, -72.265963)",URIBIA,LA GUAJIRA,Rancheria Jawuo,11.71484,-72.265963,Rural,2009,6,44847,44
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Sin informacion,1.336939,-71.951518,Rural,2009,8,95200,95
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Sin informacion,1.336939,-71.951518,Rural,2009,8,95200,95
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Mujer,Mayor de 18 anos,Muerto,Otra,Civil,Indigena,En cerca a edificio residencial,"(2.955399, -76.268615)",TORIBIO,CAUCA,Vereda Vichiqui,2.955399,-76.268615,Rural,2009,8,19821,19
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(8.181547, -76.052223)",TIERRALTA,CORDOBA,Sin informacion,8.181547,-76.052223,Rural,2009,9,23807,23
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda El Chapilal,1.22182,-77.677265,Rural,2009,10,52699,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda El Chapilal,1.22182,-77.677265,Rural,2009,10,52699,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Buenavista,1.337083,-77.59313,Rural,2009,6,52678,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(7.171637, -75.764403)",ITUANGO,ANTIOQUIA,Sin informacion,7.171637,-75.764403,Rural,2009,6,5361,5
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(1.225, -77.68)",SANTA CRUZ,NARINO,Sin informacion,1.225,-77.68,Rural,2009,7,52699,52
+Hombre,Menor de 18 anos,Muerto,"Caza, pesca",Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Planadas Telembi,1.337083,-77.59313,Rural,2008,6,52678,52
+Hombre,Menor de 18 anos,Muerto,"Caza, pesca",Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Planadas Telembi,1.337083,-77.59313,Rural,2008,6,52678,52
+Hombre,Menor de 18 anos,Muerto,"Caza, pesca",Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Vereda Planadas Telembi,1.337083,-77.59313,Rural,2008,6,52678,52
+Hombre,Mayor de 18 anos,Muerto,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(3.25181, -76.15778)",FLORIDA,VALLE DEL CAUCA,Vereda Miravalle,3.25181,-76.15778,Rural,2008,6,76275,76
+Mujer,Menor de 18 anos,Muerto,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2008,9,95001,95
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2008,9,95001,95
+Mujer,Menor de 18 anos,Muerto,Transito por trocha atajo,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2008,9,95001,95
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(1.150473, -78.181048)",RICAURTE,NARINO,Sin informacion,1.150473,-78.181048,Rural,2008,4,52612,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.150473, -78.181048)",RICAURTE,NARINO,Sin informacion,1.150473,-78.181048,Rural,2008,4,52612,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2008,10,52835,52
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,en sobre cerca rivera de un rio,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2009,1,95001,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.464494, -78.098156)",BARBACOAS,NARINO,Sin informacion,1.464494,-78.098156,Rural,2008,6,52079,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Vereda Casa Azul,1.336939,-71.951518,Rural,2009,1,95200,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Vereda Casa Azul,1.336939,-71.951518,Rural,2009,1,95200,95
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,La Muralla,1.337083,-77.59313,Rural,2009,2,52678,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,11,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,2,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2008,8,52678,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2008,4,52678,52
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Sin informacion,0.502569,-76.49818,Rural,2008,5,86568,86
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Kilometro 5 Via La Cabuya-Tame,6.461209,-71.730855,Rural,2007,4,81794,81
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Kilometro 5 Via La Cabuya-Tame,6.461209,-71.730855,Rural,2007,4,81794,81
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.958453, -72.654146)",CALAMAR,GUAVIARE,Vereda La Argelia,1.958453,-72.654146,Rural,2007,10,95015,95
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(2.66408761866, -75.9730436997)",PAEZ,CAUCA,Sin informacion,2.66408761866,-75.9730436997,Rural,2008,3,19517,19
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Vereda Villa Arteaga,7.243481,-76.436166,Rural,1998,5,5480,5
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Vereda Villa Arteaga,7.243481,-76.436166,Rural,1998,5,5480,5
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Vereda Villa Arteaga,7.243481,-76.436166,Rural,1998,5,5480,5
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda El Bombon,0.964878,-76.407827,Rural,2007,10,86571,86
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda El Bombon,0.964878,-76.407827,Rural,2007,10,86571,86
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda El Bombon,0.964878,-76.407827,Rural,2007,10,86571,86
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Zona Rural,1.672216,-78.138537,Rural,2005,11,52079,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.105282, -77.764098)",JURADO,CHOCO,Sin informacion,7.105282,-77.764098,Rural,2008,3,27372,27
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.66408761866, -75.9730436997)",PAEZ,CAUCA,Resguardo Indigena La Mesa De Caloto,2.66408761866,-75.9730436997,Rural,2006,1,19517,19
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.597383, -74.809065)",EL BAGRE,ANTIOQUIA,Vereda La Negrita,7.597383,-74.809065,Rural,2001,7,5250,5
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,1,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,1,52612,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.83868, -76.768311)",SAN SEBASTIAN,CAUCA,Sin informacion,1.83868,-76.768311,Rural,2004,3,19693,19
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Mayor de 18 anos,Muerto,Otra,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Resguardo De Magu,1.212529,-77.995412,Rural,2007,8,52612,52
+Hombre,Mayor de 18 anos,Muerto,Otra,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Resguardo De Magu,1.212529,-77.995412,Rural,2007,8,52612,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(3.380371, -74.042419)",MESETAS,META,Sin informacion,3.380371,-74.042419,Rural,2008,3,50330,50
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Sin informacion,7.243481,-76.436166,Rural,2005,3,5480,5
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Sin informacion,7.243481,-76.436166,Rural,2005,3,5480,5
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(7.243481, -76.436166)",MUTATA,ANTIOQUIA,Sin informacion,7.243481,-76.436166,Rural,2005,3,5480,5
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2005,10,76275,76
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2005,10,76275,76
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2005,10,76275,76
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Resguardo De Magui,1.212529,-77.995412,Rural,2007,4,52612,52
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(11.267972, -73.306402)",DIBULLA,LA GUAJIRA,Cuenca Del Rio Palomino,11.267972,-73.306402,Rural,2006,3,44090,44
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(11.267972, -73.306402)",DIBULLA,LA GUAJIRA,Cuenca Del Rio Palomino,11.267972,-73.306402,Rural,2006,3,44090,44
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,1,52612,52
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,6,52612,52
+Hombre,Menor de 18 anos,Muerto,Manipulacion,Civil,Indigena,Sin informacion,"(2.955399, -76.268615)",TORIBIO,CAUCA,Entre Veredas El Trapiche Y Rionegro,2.955399,-76.268615,Rural,2005,9,19821,19
+Hombre,Menor de 18 anos,Muerto,Manipulacion,Civil,Indigena,Sin informacion,"(2.955399, -76.268615)",TORIBIO,CAUCA,Entre Veredas El Trapiche Y Rionegro,2.955399,-76.268615,Rural,2005,9,19821,19
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(6.555942, -76.882845)",BOJAYA,CHOCO,Sin informacion,6.555942,-76.882845,Rural,2008,5,27099,27
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,La Esperanza,1.212529,-77.995412,Rural,2006,12,52612,52
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2008,1,52678,52
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Mayor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Sande,1.22182,-77.677265,Rural,2007,2,52699,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(4.447613, -69.799221)",CUMARIBO,VICHADA,Sin informacion,4.447613,-69.799221,Rural,2008,2,99773,99
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.447613, -69.799221)",CUMARIBO,VICHADA,Sin informacion,4.447613,-69.799221,Rural,2008,2,99773,99
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.447613, -69.799221)",CUMARIBO,VICHADA,Sin informacion,4.447613,-69.799221,Rural,2008,2,99773,99
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.447613, -69.799221)",CUMARIBO,VICHADA,Sin informacion,4.447613,-69.799221,Rural,2008,2,99773,99
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2008,2,52678,52
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2008,2,52678,52
+Hombre,Mayor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2006,10,52385,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Sin informacion,1.337083,-77.59313,Rural,2006,10,52678,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(7.883545, -75.670508)",PUERTO LIBERTADOR,CORDOBA,Vereda Santa Rosa,7.883545,-75.670508,Rural,2007,12,23580,23
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Comunidad De Tallambi,0.906258,-77.792061,Rural,2007,4,52227,52
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Comunidad De Tallambi,0.906258,-77.792061,Rural,2007,4,52227,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Comunidad De Tallambi,0.906258,-77.792061,Rural,2007,4,52227,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.451476, -76.810904)",EL TAMBO,CAUCA,Vereda La Paloma,2.451476,-76.810904,Rural,2004,9,19256,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda El Sande,1.22182,-77.677265,Rural,2007,8,52699,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda El Sande,1.22182,-77.677265,Rural,2007,8,52699,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(0.340764, -76.908027)",SAN MIGUEL,PUTUMAYO,La Dorada,0.340764,-76.908027,Rural,2003,2,86757,86
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda La Horquetra Sector Chimborazo,1.22182,-77.677265,Rural,2008,3,52699,52
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Vereda Barrancos,2.564079,-72.640033,Rural,2007,2,95001,95
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Vereda Barrancos,2.564079,-72.640033,Rural,2007,2,95001,95
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Vereda Barrancos,2.564079,-72.640033,Rural,2007,2,95001,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,4,52612,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Vereda Las Vegas,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Vereda Las Vegas,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Vereda Las Vegas,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(7.635556, -75.851389)",PUERTO LIBERTADOR,CORDOBA,Sitio Tamanavereda Tres Playitas,7.635556,-75.851389,Rural,2004,6,23580,23
+Hombre,Menor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(7.635556, -75.851389)",PUERTO LIBERTADOR,CORDOBA,Sitio Tamanavereda Tres Playitas,7.635556,-75.851389,Rural,2004,6,23580,23
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.66408761866, -75.9730436997)",PAEZ,CAUCA,Sin informacion,2.66408761866,-75.9730436997,Rural,2006,2,19517,19
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(2.66408761866, -75.9730436997)",PAEZ,CAUCA,Sin informacion,2.66408761866,-75.9730436997,Rural,2006,2,19517,19
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Resguardo De Magui,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Resguardo De Magui,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Resguardo De Magui,1.212529,-77.995412,Rural,2007,7,52612,52
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Caminos,"(3.251737, -76.228589)",MIRANDA,CAUCA,"Vereda Cabildo Parte Alta, Corregimiento Potreritos",3.251737,-76.228589,Rural,2015,4,19455,19
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Fincas,"(3.17245803751, -76.2540352903)",CORINTO,CAUCA,Sin informacion,3.17245803751,-76.2540352903,Rural,2015,5,19212,19
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Fincas,"(3.17245803751, -76.2540352903)",CORINTO,CAUCA,Sin informacion,3.17245803751,-76.2540352903,Rural,2015,5,19212,19
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Caminos,"(3.02021074118, -76.6347777536)",BUENOS AIRES,CAUCA,Vereda Aguas Claras,3.02021074118,-76.6347777536,Rural,2015,6,19110,19
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(3.02021074118, -76.6347777536)",BUENOS AIRES,CAUCA,Vereda Aguas Claras,3.02021074118,-76.6347777536,Rural,2015,6,19110,19
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(3.02021074118, -76.6347777536)",BUENOS AIRES,CAUCA,Vereda Aguas Claras,3.02021074118,-76.6347777536,Rural,2015,6,19110,19
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(3.02021074118, -76.6347777536)",BUENOS AIRES,CAUCA,Vereda Aguas Claras,3.02021074118,-76.6347777536,Rural,2015,6,19110,19
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Fincas,"(3.17245803751, -76.2540352903)",CORINTO,CAUCA,Sin informacion,3.17245803751,-76.2540352903,Rural,2015,5,19212,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(3.12027777777778, -76.2711111111111)",CORINTO,CAUCA,Vereda Guacas,3.12027777777778,-76.2711111111111,Rural,2015,8,19212,19
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(3.12027777777778, -76.2711111111111)",CORINTO,CAUCA,Vereda Guacas,3.12027777777778,-76.2711111111111,Rural,2015,8,19212,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(3.12027777777778, -76.2711111111111)",CORINTO,CAUCA,Vereda Guacas,3.12027777777778,-76.2711111111111,Rural,2015,8,19212,19
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2008,6,52079,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Sin informacion,0.906258,-77.792061,Rural,2008,7,52227,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.64746, -77.579056)",CUMBITARA,NARINO,Sin informacion,1.64746,-77.579056,Rural,2008,6,52233,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,11,52612,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,8,52612,52
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,9,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,11,52612,52
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.570034, -75.32675)",EL PAUJIL,CAQUETA,Sin informacion,1.570034,-75.32675,Rural,2007,6,18256,18
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.337083, -77.59313)",SAMANIEGO,NARINO,Emergencia Rio Telembi- Mun.Samaniego,1.337083,-77.59313,Rural,2009,12,52678,52
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,1,52835,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2011,2,52079,52
+Hombre,Mayor de 18 anos,Muerto,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(7.883545, -75.670508)",PUERTO LIBERTADOR,CORDOBA,Sin informacion,7.883545,-75.670508,Rural,2009,10,23580,23
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,1,52835,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2007,6,52079,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.330752, -72.62777)",EL RETORNO,GUAVIARE,Sin informacion,2.330752,-72.62777,Rural,2011,5,95025,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.789083333333333, -71.65855555555555)",SAN JOSE DEL GUAVIARE,GUAVIARE,Barrancon-Ceiba,2.789083333333333,-71.65855555555555,Rural,2007,2,95001,95
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.33857191395, -76.497586542)",PURACE,CAUCA,Sin informacion,2.33857191395,-76.497586542,Rural,2011,6,19585,19
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.68305192469, -76.5770062302)",SANTA ROSA,CAUCA,Sin informacion,1.68305192469,-76.5770062302,Rural,2011,4,19701,19
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(3.034582, -76.40794)",CALOTO,CAUCA,Sin informacion,3.034582,-76.40794,Rural,2011,7,19142,19
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Caminos,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2011,2,52079,52
+Hombre,Mayor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Sin informacion,6.461209,-71.730855,Rural,2010,9,81794,81
+Hombre,Menor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Sin informacion,6.461209,-71.730855,Rural,2010,7,81794,81
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(0.826836, -77.638252)",IPIALES,NARINO,Sin informacion,0.826836,-77.638252,Rural,2011,8,52356,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(3.20579971235, -75.6374554695)",PLANADAS,TOLIMA,Sin informacion,3.20579971235,-75.6374554695,Rural,2011,11,73555,73
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(3.273, -76.216)",FLORIDA,VALLE DEL CAUCA,Vereda Altamira,3.273,-76.216,Rural,2012,2,76275,76
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(3.273, -76.216)",FLORIDA,VALLE DEL CAUCA,Vereda Altamira,3.273,-76.216,Rural,2012,2,76275,76
+Hombre,Menor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Sin informacion,0.502569,-76.49818,Rural,2011,8,86568,86
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,Sin informacion,1.336939,-71.951518,Rural,2011,11,95200,95
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(3.197458, -75.643224)",PLANADAS,TOLIMA,Sin informacion,3.197458,-75.643224,Rural,2011,11,73555,73
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(3.197458, -75.643224)",PLANADAS,TOLIMA,Sin informacion,3.197458,-75.643224,Rural,2011,11,73555,73
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(8.181547, -76.05223)",TIERRALTA,CORDOBA,Sin informacion,8.181547,-76.05223,Rural,2012,2,23807,23
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(0.343179, -76.911852)",SAN MIGUEL,PUTUMAYO,Sin informacion,0.343179,-76.911852,Rural,2012,3,86757,86
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.343179, -76.911852)",SAN MIGUEL,PUTUMAYO,Sin informacion,0.343179,-76.911852,Rural,2012,3,86757,86
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Veredas Cano Limon,6.461209,-71.730855,Rural,2012,2,81794,81
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(3.197458, -75.643224)",PLANADAS,TOLIMA,Sin informacion,3.197458,-75.643224,Rural,2011,11,73555,73
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2009,1,52612,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2011,11,52612,52
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2005,7,52612,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,2,52612,52
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2006,6,52612,52
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2005,7,52612,52
+Hombre,Mayor de 18 anos,Muerto,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2009,6,52612,52
+Mujer,Mayor de 18 anos,Muerto,Cuidado de animales,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,11,52612,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2006,3,52612,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2006,4,52612,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2006,11,52612,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2011,8,52612,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2006,6,52612,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2007,7,52612,52
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(11.157229, -72.600709)",ALBANIA,LA GUAJIRA,Sin informacion,11.157229,-72.600709,Rural,2012,3,44035,44
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(0.343179, -76.911852)",SAN MIGUEL,PUTUMAYO,Sin informacion,0.343179,-76.911852,Rural,2012,3,86757,86
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(11.157229, -72.600709)",ALBANIA,LA GUAJIRA,Sin informacion,11.157229,-72.600709,Rural,2012,3,44035,44
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2012,4,52612,52
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2012,4,52612,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2008,11,52612,52
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.66884276491, -78.1200542041)",BARBACOAS,NARINO,Vereda Chapul El Diviso,1.66884276491,-78.1200542041,Rural,2005,11,52079,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.66884276491, -78.1200542041)",BARBACOAS,NARINO,Vereda Chapul El Diviso,1.66884276491,-78.1200542041,Rural,2005,11,52079,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.66884276491, -78.1200542041)",BARBACOAS,NARINO,Vereda Chapul El Diviso,1.66884276491,-78.1200542041,Rural,2005,11,52079,52
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda Nambi,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda Nambi,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda Nambi,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda Nambi,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Herido,Otra,Civil,Indigena,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2008,5,52385,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.472995, -77.580358)",LA LLANADA,NARINO,Sin informacion,1.472995,-77.580358,Rural,2008,4,52385,52
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.64746, -77.579056)",CUMBITARA,NARINO,Santa Ana,1.64746,-77.579056,Rural,2006,10,52233,52
+Mujer,Mayor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.754906, -76.62914)",MORALES,CAUCA,Sin informacion,2.754906,-76.62914,Rural,2012,5,19473,19
+Hombre,Mayor de 18 anos,Muerto,Jugando,Civil,Indigena,Sin informacion,"(2.754906, -76.62914)",MORALES,CAUCA,Sin informacion,2.754906,-76.62914,Rural,2012,5,19473,19
+Hombre,Menor de 18 anos,Muerto,Jugando,Civil,Indigena,Sin informacion,"(2.754906, -76.62914)",MORALES,CAUCA,Sin informacion,2.754906,-76.62914,Rural,2012,5,19473,19
+Hombre,Mayor de 18 anos,Muerto,Jugando,Civil,Indigena,Sin informacion,"(2.754906, -76.62914)",MORALES,CAUCA,Sin informacion,2.754906,-76.62914,Rural,2012,5,19473,19
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.564079, -72.640033)",SAN JOSE DEL GUAVIARE,GUAVIARE,Sin informacion,2.564079,-72.640033,Rural,2005,5,95001,95
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Mujer,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Sin informacion,2.776824,-76.324799,Rural,2012,2,19364,19
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(3.034582, -76.40794)",CALOTO,CAUCA,Sin informacion,3.034582,-76.40794,Rural,2011,2,19142,19
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2003,2,52612,52
+Mujer,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2011,8,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.00927111827, -76.7579726356)",LA VEGA,CAUCA,Sin informacion,2.00927111827,-76.7579726356,Rural,1997,2,19397,19
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(1.212529, -77.995412)",RICAURTE,NARINO,Sin informacion,1.212529,-77.995412,Rural,2006,9,52612,52
+Hombre,Menor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2012,8,52835,52
+Hombre,Menor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(3.380371, -74.042419)",MESETAS,META,Sin informacion,3.380371,-74.042419,Rural,2012,6,50330,50
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Sin informacion,1.672216,-78.138537,Rural,2012,5,52079,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2012,8,52835,52
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2012,8,52835,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.391421, -78.517269)",TUMACO,NARINO,Sin informacion,1.391421,-78.517269,Rural,2012,8,52835,52
+Mujer,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(3.326974, -76.243463)",FLORIDA,VALLE DEL CAUCA,Sin informacion,3.326974,-76.243463,Rural,2012,5,76275,76
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(3.034582, -76.40794)",CALOTO,CAUCA,Sin informacion,3.034582,-76.40794,Rural,2012,1,19142,19
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(2.754906, -76.62914)",MORALES,CAUCA,Finca El Ceral,2.754906,-76.62914,Rural,2013,2,19473,19
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(10.420539, -73.584995)",PUEBLO BELLO,CESAR,Sin informacion,10.420539,-73.584995,Rural,2005,10,20570,20
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(10.420539, -73.584995)",PUEBLO BELLO,CESAR,Sin informacion,10.420539,-73.584995,Rural,2005,10,20570,20
+Hombre,Menor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(2.889081, -76.376875)",CALDONO,CAUCA,Sin informacion,2.889081,-76.376875,Rural,2013,1,19137,19
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(2.45616, -76.606092)",POPAYAN,CAUCA,Sin informacion,2.45616,-76.606092,Rural,2001,8,19001,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(3.034582, -76.40794)",CALOTO,CAUCA,Vereda El Pilomo,3.034582,-76.40794,Rural,2013,5,19142,19
+Hombre,Menor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Sin informacion,"(1.834892, -76.966372)",BOLIVAR,CAUCA,Corregimiento Lermar Vereda Villa Nueva,1.834892,-76.966372,Rural,2005,2,19100,19
+Mujer,Menor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(2.776824, -76.324799)",JAMBALO,CAUCA,Vereda Chimicueto,2.776824,-76.324799,Rural,2013,3,19364,19
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(7.48920818685, -75.4806350968)",TARAZA,ANTIOQUIA,Vereda Canon De Iglesias,7.48920818685,-75.4806350968,Rural,2013,6,5790,5
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Area De Dacar,1.79338584254,-78.7639364297,Rural,2013,5,52835,52
+Hombre,Menor de 18 anos,Herido,Jugando,Civil,Indigena,Sin informacion,"(3.372723, -76.255928)",PRADERA,VALLE DEL CAUCA,Pradera,3.372723,-76.255928,Rural,2013,2,76563,76
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Area De Dacar,1.79338584254,-78.7639364297,Rural,2013,5,52835,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,Vereda Labarazon,1.22182,-77.677265,Rural,2007,3,52699,52
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Corregimiento De Tokio,2.20248683381,-78.5730006588,Rural,2013,5,52835,52
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Corregimiento De Tokio,2.20248683381,-78.5730006588,Rural,2013,5,52835,52
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Corregimiento De Tokio,2.20248683381,-78.5730006588,Rural,2013,5,52835,52
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Vereda Santa Luisa Cano Guarapo,6.461209,-71.730855,Rural,2013,9,81794,81
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(3.17805555555556, -76.1947222222222)",CORINTO,CAUCA,Vereda San Pedro,3.17805555555556,-76.1947222222222,Rural,2013,8,19212,19
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(3.17805555555556, -76.1947222222222)",CORINTO,CAUCA,Vereda San Pedro,3.17805555555556,-76.1947222222222,Rural,2013,8,19212,19
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(3.372723, -76.255928)",PRADERA,VALLE DEL CAUCA,Pradera,3.372723,-76.255928,Rural,2013,2,76563,76
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Corregimiento De Tokio,2.20248683381,-78.5730006588,Rural,2013,5,52835,52
+Hombre,Menor de 18 anos,Muerto,Jugando,Civil,Indigena,Sin informacion,"(4.447613, -69.799221)",CUMARIBO,VICHADA,Cumaribo,4.447613,-69.799221,Rural,2013,11,99773,99
+Hombre,Menor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Sin informacion,"(6.461209, -71.730855)",TAME,ARAUCA,Vereda Casaivo,6.461209,-71.730855,Rural,2013,11,81794,81
+Hombre,Mayor de 18 anos,Herido,Transito por via usual,Civil,Indigena,Sin informacion,"(8.020751, -76.15504)",TIERRALTA,CORDOBA,Vereda Alto Guarumal,8.020751,-76.15504,Rural,2013,11,23807,23
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.672216, -78.138537)",BARBACOAS,NARINO,Vereda El Bravo,1.672216,-78.138537,Rural,2009,4,52079,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(7.087606, -70.75831)",ARAUCA,ARAUCA,Sin informacion,7.087606,-70.75831,Rural,2011,1,81001,81
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Sin informacion,1.79338584254,-78.7639364297,Rural,2014,1,52835,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(3.24751, -76.17175)",FLORIDA,VALLE DEL CAUCA,Vereda Las Brisas,3.24751,-76.17175,Rural,2014,3,76275,76
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(5.694248, -76.650754)",QUIBDO,CHOCO,Vereda Resguardo Indigena 21,5.694248,-76.650754,Rural,2014,3,27001,27
+Hombre,Mayor de 18 anos,Muerto,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(5.523673, -76.978941)",ALTO BAUDO,CHOCO,Alto Baudo,5.523673,-76.978941,Rural,2014,5,27025,27
+Hombre,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(5.410131, -76.415554)",BAGADO,CHOCO,Bagado,5.410131,-76.415554,Rural,2014,6,27073,27
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(0.906258, -77.792061)",CUMBAL,NARINO,Sector La Laguna De Cumbal,0.906258,-77.792061,Rural,2003,12,52227,52
+Mujer,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Sin informacion,0.664866,-76.869171,Rural,1993,8,86320,86
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Sin informacion,0.664866,-76.869171,Rural,1993,8,86320,86
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Sin informacion,0.664866,-76.869171,Rural,1993,8,86320,86
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Sin informacion,0.664866,-76.869171,Rural,2011,10,86320,86
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.664866, -76.869171)",ORITO,PUTUMAYO,Vereda Guayabal,0.664866,-76.869171,Rural,2014,5,86320,86
+Mujer,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.502569, -76.49818)",PUERTO ASIS,PUTUMAYO,Vereda La Cabanita Corregimiento La Carmelita,0.502569,-76.49818,Rural,2013,3,86568,86
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(0.964878, -76.407827)",PUERTO GUZMAN,PUTUMAYO,Vereda Monserrate,0.964878,-76.407827,Rural,2003,5,86571,86
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(-0.193382, -74.782646)",PUERTO LEGUIZAMO,PUTUMAYO,Sin informacion,-0.193382,-74.782646,Rural,2013,2,86573,86
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(0.424591, -76.905657)",VALLE DEL GUAMUEZ,PUTUMAYO,Sin informacion,0.424591,-76.905657,Rural,2012,2,86865,86
+Mujer,Mayor de 18 anos,Herido,Mantenimiento de infraestructura,Civil,Indigena,Sin informacion,"(1.030552, -76.616386)",VILLAGARZON,PUTUMAYO,Vereda Las Rosas,1.030552,-76.616386,Rural,2013,7,86885,86
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(5.25698884838, -76.5535778177)",TADO,CHOCO,Vereda Tadena,5.25698884838,-76.5535778177,Rural,2014,8,27787,27
+Hombre,Menor de 18 anos,Muerto,Jugando,Civil,Indigena,Sin informacion,"(5.18070581671, -76.4599890671)",RIO IRO,CHOCO,Resguardo Indigena Alto Bonito,5.18070581671,-76.4599890671,Rural,2014,8,27580,27
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.20248683381, -78.5730006588)",TUMACO,NARINO,Sin informacion,2.20248683381,-78.5730006588,Rural,2011,2,52835,52
+Hombre,Mayor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Campo,"(3.24796137091, -76.2225782935)",MIRANDA,CAUCA,Vereda Cajones,3.24796137091,-76.2225782935,Rural,2014,11,19455,19
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Caminos,"(5.707909, -77.268147)",NUQUI,CHOCO,Vereda Comunidad Puerto Indio,5.707909,-77.268147,Rural,2014,4,27495,27
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.33857191395, -76.497586542)",PURACE,CAUCA,Sin informacion,2.33857191395,-76.497586542,Rural,2011,6,19585,19
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Sin informacion,"(5.410131, -76.415554)",BAGADO,CHOCO,Bagado,5.410131,-76.415554,Rural,2014,6,27073,27
+Hombre,Mayor de 18 anos,Herido,Erradicador manual - PCI,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Sin informacion,1.79338584254,-78.7639364297,Rural,2013,4,52835,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,Vereda El Progreso Kilometro 115,1.79338584254,-78.7639364297,Rural,2015,3,52835,52
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Fincas,"(3.03886263551, -76.4007854605)",CALOTO,CAUCA,VEREDA LA SELVA,3.03886263551,-76.4007854605,Rural,2015,10,19142,19
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Fincas,"(3.03886263551, -76.4007854605)",CALOTO,CAUCA,VEREDA LA SELVA,3.03886263551,-76.4007854605,Rural,2015,10,19142,19
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.77825723673, -76.3138774689)",JAMBALO,CAUCA,CHIMICUETO,2.77825723673,-76.3138774689,Rural,2013,3,19364,19
+Hombre,Menor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,PENA CARANO,1.79338584254,-78.7639364297,Rural,2014,1,52835,52
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,PENA CARANO,1.79338584254,-78.7639364297,Rural,2014,1,52835,52
+Hombre,Mayor de 18 anos,Muerto,Cuidado de animales,Civil,Indigena,Fincas,"(1.22444787774, -77.6652995511)",SANTA CRUZ,NARINO,VEREDA CHAGUI,1.22444787774,-77.6652995511,Rural,2016,4,52699,52
+Hombre,Mayor de 18 anos,Herido,Cuidado de animales,Civil,Indigena,Fincas,"(1.22444787774, -77.6652995511)",SANTA CRUZ,NARINO,VEREDA CHAGUI,1.22444787774,-77.6652995511,Rural,2016,4,52699,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.6188669813, -76.587488063)",CHIGORODO,ANTIOQUIA,VEREDA REMIGIO,7.6188669813,-76.587488063,Rural,2016,9,5172,5
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(1.336939, -71.951518)",MIRAFLORES,GUAVIARE,VEREDA PUERTO COLOMBIA,1.336939,-71.951518,Rural,2016,12,95200,95
+Hombre,Menor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(1.327837, -78.561812)",TUMACO,NARINO,VEREDA ADUANA,1.327837,-78.561812,Rural,2017,2,52835,52
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.437292, -77.111288)",RIOSUCIO,CHOCO,VEREDA PICHINDE,7.437292,-77.111288,Rural,2017,3,27615,27
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Caminos,"(7.437292, -77.111288)",RIOSUCIO,CHOCO,CORREGIMIENTO JIUNDO COMUNIDAD JIUUN DUUR,7.437292,-77.111288,Rural,2017,7,27615,27
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(1.22182, -77.677265)",SANTA CRUZ,NARINO,VEREDA CUNDES,1.22182,-77.677265,Rural,2017,7,52699,52
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(7.437292, -77.111288)",RIOSUCIO,CHOCO,VEREDA COMUNIDAD INDIGENA QUIPARADO,7.437292,-77.111288,Rural,2017,7,27615,27
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(2.12794539002, -74.7847134047)",SAN VICENTE DEL CAGUAN,CAQUETA,VEREDA LA ESPERANZA,2.12794539002,-74.7847134047,Rural,2017,11,18753,18
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.255802, -77.248947)",ARGELIA,CAUCA,vereda Platino Cauca,2.255802,-77.248947,Rural,1998,1,19050,19
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(7.437292, -77.111288)",RIOSUCIO,CHOCO,vereda resguardo Jagual,7.437292,-77.111288,Rural,2018,2,27615,27
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(2.77825723673, -76.3138774689)",JAMBALO,CAUCA,Sin informacion,2.77825723673,-76.3138774689,Rural,2018,6,19364,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.78984904371, -71.7734500621)",FORTUL,ARAUCA,VEREDA CERRO ALTO,6.78984904371,-71.7734500621,Rural,2018,8,81300,81
+Hombre,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(8.32314659701, -73.1488227153)",HACARI,NORTE DE SANTANDER,VEREDA SAN JOSE DEL TARRA,8.32314659701,-73.1488227153,Rural,2018,9,54344,54
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA SALTO GLORIA,2.34323302375,-72.6446028975,Rural,2018,9,95025,95
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(2.95568227129, -76.2625473804)",TORIBIO,CAUCA,VEREDA EL PLAYON DEL RESGUARDO DE SAN FRANCISCO,2.95568227129,-76.2625473804,Rural,2018,1,19821,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(7.527, -75.5)",TARAZA,ANTIOQUIA,Sin informacion,7.527,-75.5,Rural,2018,11,5790,5
+Hombre,Mayor de 18 anos,Muerto,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.13201232633, -76.9767003448)",EL CARMEN DEL DARIEN,CHOCO,COMUNIDAD DE JIGUAMIANDO,7.13201232633,-76.9767003448,Rural,2018,10,27150,27
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.52486723403, -75.4999414574)",TARAZA,ANTIOQUIA,VEREDA POPALES FINCA LA ILUSION,7.52486723403,-75.4999414574,Rural,2018,11,5790,5
+Mujer,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(3.09515, -76.748927)",BUENOS AIRES,CAUCA,CORREGIMIENTO EL CERAL,3.09515,-76.748927,Rural,2020,1,19110,19
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(3.09515, -76.748927)",BUENOS AIRES,CAUCA,CORREGIMIENTO EL CERAL,3.09515,-76.748927,Rural,2020,1,19110,19
+Mujer,Menor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(3.09515, -76.748927)",BUENOS AIRES,CAUCA,CORREGIMIENTO EL CERAL,3.09515,-76.748927,Rural,2020,1,19110,19
+Hombre,Menor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Mujer,Menor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.74397243879, -76.3680547229)",FRONTINO,ANTIOQUIA,RESGUARDO INDIGENA MURRY PANTANO,6.74397243879,-76.3680547229,Rural,2020,3,5284,5
+Mujer,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Sin informacion,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,VEREDA COMUNIDAD DE LOREDO RIO MURINDO,6.97575693464,-76.8133196851,Rural,2020,5,5475,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.00354276948, -76.2664944687)",DABEIBA,ANTIOQUIA,VEREDA COMUNIDAD INDIGENA AMPARRADO,7.00354276948,-76.2664944687,Rural,2020,7,5234,5
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Caminos,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,Sin informacion,6.97575693464,-76.8133196851,Rural,2020,7,5475,5
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.04052298214, -76.2775761027)",DABEIBA,ANTIOQUIA,VEREDA ANTADO ARENERA,7.04052298214,-76.2775761027,Rural,2020,8,5234,5
+Hombre,Mayor de 18 anos,Muerto,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.04052298214, -76.2775761027)",DABEIBA,ANTIOQUIA,VEREDA ANTADO ARENERA,7.04052298214,-76.2775761027,Rural,2020,8,5234,5
+Mujer,Menor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.04052298214, -76.2775761027)",DABEIBA,ANTIOQUIA,VEREDA ANTADO ARENERA,7.04052298214,-76.2775761027,Rural,2020,8,5234,5
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Fincas,"(2.861699, -76.562348)",CALDONO,CAUCA,"VEREDA EL ROSAL, RESGUARDO INDIGENA LAS MERCEDES",2.861699,-76.562348,Rural,2020,8,19137,19
+Hombre,Mayor de 18 anos,Muerto,Agricultura,Civil,Indigena,Caminos,"(7.09173326096, -77.7565037587)",JURADO,CHOCO,VEREDA CABO DE MARZO,7.09173326096,-77.7565037587,Rural,2019,11,27372,27
+Hombre,Mayor de 18 anos,Muerto,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(7.44986456944, -75.6814067988)",ITUANGO,ANTIOQUIA,VEREDA CONGUITAL,7.44986456944,-75.6814067988,Rural,2020,9,5361,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.55087054208, -76.9039734127)",BOJAYA,CHOCO,VEREDA COMUNIDAD INDIGENA HOJA BLANCA,6.55087054208,-76.9039734127,Rural,2019,11,27099,27
+Mujer,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Caminos,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,"VEREDA PENALISA, RESGUARDO GRAN ROSARIO",1.79338584254,-78.7639364297,Rural,2020,10,52835,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.61662257477, -75.1139369593)",CACERES,ANTIOQUIA,VEREDA CAUCHO,7.61662257477,-75.1139369593,Rural,2020,12,5120,5
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.61662257477, -75.1139369593)",CACERES,ANTIOQUIA,VEREDA CAUCHO,7.61662257477,-75.1139369593,Rural,2020,12,5120,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(2.66408761866, -75.9730436997)",PAEZ,CAUCA,"VEREDA CALOTO, RESGUARDO INDIGENA HUILA",2.66408761866,-75.9730436997,Rural,2020,11,19517,19
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.55087054208, -76.9039734127)",BOJAYA,CHOCO,Vereda Resguardo Indigena Alto Rio Bojaya,6.55087054208,-76.9039734127,Rural,2021,2,27099,27
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(6.55087054208, -76.9039734127)",BOJAYA,CHOCO,Vereda Resguardo Indigena Alto Rio Bojaya,6.55087054208,-76.9039734127,Rural,2021,2,27099,27
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.55087054208, -76.9039734127)",BOJAYA,CHOCO,Vereda Resguardo Indigena Alto Rio Bojaya,6.55087054208,-76.9039734127,Rural,2021,2,27099,27
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97709599596, -76.8198066998)",MURINDO,ANTIOQUIA,VEREDA RESGUARDO INDIGENA ISLAS RIO MURINDO,6.97709599596,-76.8198066998,Rural,2021,2,5475,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97709599596, -76.8198066998)",MURINDO,ANTIOQUIA,VEREDA RESGUARDO INDIGENA ISLAS RIO MURINDO,6.97709599596,-76.8198066998,Rural,2021,2,5475,5
+Hombre,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97709599596, -76.8198066998)",MURINDO,ANTIOQUIA,VEREDA RESGUARDO INDIGENA ISLAS RIO MURINDO,6.97709599596,-76.8198066998,Rural,2021,2,5475,5
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(6.78170449468, -76.1296181219)",FRONTINO,ANTIOQUIA,VEREDA BOCAS DE CURBATA,6.78170449468,-76.1296181219,Rural,2021,2,5284,5
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Sin informacion,"(7.191, -76.492)",MUTATA,ANTIOQUIA,resguardo indigena chontadurai,7.191,-76.492,Rural,2021,1,5480,5
+Hombre,Menor de 18 anos,Herido,Manipulacion,Civil,Indigena,Fincas,"(2.861699, -76.562348)",CALDONO,CAUCA,"VEREDA EL ROSAL, RESGUARDO INDIGENA LAS MERCEDES",2.861699,-76.562348,Rural,2020,8,19137,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.754411933, -76.4523059931)",DABEIBA,ANTIOQUIA,VEREDA COMUNIDAD DE JERATURADO,6.754411933,-76.4523059931,Rural,2021,3,5234,5
+Hombre,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Caminos,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA LA PAZ BAJO,2.34323302375,-72.6446028975,Rural,2021,6,95025,95
+Mujer,Mayor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Caminos,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA LA PAZ BAJO,2.34323302375,-72.6446028975,Rural,2021,6,95025,95
+Mujer,Menor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Caminos,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA LA PAZ BAJO,2.34323302375,-72.6446028975,Rural,2021,6,95025,95
+Hombre,Menor de 18 anos,Herido,Transito por trocha atajo,Civil,Indigena,Caminos,"(2.34323302375, -72.6446028975)",EL RETORNO,GUAVIARE,VEREDA LA PAZ BAJO,2.34323302375,-72.6446028975,Rural,2021,6,95025,95
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,VEREDA COMUNIDAD TURIQUITADO,6.97575693464,-76.8133196851,Rural,2021,7,5475,5
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.00354276948, -76.2664944687)",DABEIBA,ANTIOQUIA,VEREDA COMUNIDAD INDIGENA AMPARRADO ALTO,7.00354276948,-76.2664944687,Rural,2021,6,5234,5
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,en sobre cerca rivera de un rio,"(5.0875916507, -77.0726671978)",MEDIO BAUDO,CHOCO,VEREDA COMUNIDAD INDIGENA DE SANDO TAPARAL,5.0875916507,-77.0726671978,Rural,2021,8,27430,27
+Mujer,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,COMUNIDAD BACHIDUVI,6.97575693464,-76.8133196851,Rural,2021,6,5475,5
+Mujer,Menor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(6.97575693464, -76.8133196851)",MURINDO,ANTIOQUIA,COMUNIDAD BACHIDUVI,6.97575693464,-76.8133196851,Rural,2021,6,5475,5
+Hombre,Mayor de 18 anos,Muerto,"Pasando, estando cerca",Civil,Indigena,Caminos,"(7.00354276948, -76.2664944687)",DABEIBA,ANTIOQUIA,VEREDA COMUNIDAD INDIGENA AMARRADO ALTO,7.00354276948,-76.2664944687,Rural,2021,7,5234,5
+Mujer,Mayor de 18 anos,Muerto,Agricultura,Civil,Indigena,Campo,"(5.51886906427, -76.9758856167)",ALTO BAUDO,CHOCO,VEREDA PUERTO LUIS,5.51886906427,-76.9758856167,Rural,2021,10,27025,27
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Caminos,"(2.45057270515, -76.8052045915)",EL TAMBO,CAUCA,Sin informacion,2.45057270515,-76.8052045915,Rural,2021,10,19256,19
+Hombre,Menor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(2.45057270515, -76.8052045915)",EL TAMBO,CAUCA,VEREDA SANTA RITA,2.45057270515,-76.8052045915,Rural,2021,10,19256,19
+Mujer,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Caminos,"(6.7442730905, -76.7086115052)",MURINDO,ANTIOQUIA,VEREDA COMUNIDAD CHIBUGADO,6.7442730905,-76.7086115052,Rural,2019,8,5475,5
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Mujer,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(4.96934977553, -77.3691264748)",BAJO BAUDO,CHOCO,RESGUARDO INDIGENA DE UNION PITALITO,4.96934977553,-77.3691264748,Rural,2022,2,27077,27
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(3.17245803751, -76.2540352903)",CORINTO,CAUCA,VEREDA LOS PINOS,3.17245803751,-76.2540352903,Rural,2022,4,19212,19
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,en sobre cerca rivera de un rio,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,CORREGIMIENTO DE LA GUAYACANA,1.79338584254,-78.7639364297,Rural,2022,5,52835,52
+Hombre,Menor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(2.12794539002, -74.7847134047)",SAN VICENTE DEL CAGUAN,CAQUETA,COMUNIDAD YAGUARA II VEREDA EL AVANCE,2.12794539002,-74.7847134047,Rural,2022,5,18753,18
+Hombre,Menor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(2.45057270515, -76.8052045915)",EL TAMBO,CAUCA,VEREDA HONDURAS,2.45057270515,-76.8052045915,Rural,2022,5,19256,19
+Hombre,Mayor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Campo,"(5.51886906427, -76.9758856167)",ALTO BAUDO,CHOCO,RESGUARDO JURUBIRA CHOY,5.51886906427,-76.9758856167,Rural,2022,5,27025,27
+Hombre,Menor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Sin informacion,"(1.366353, -78.574431)",TUMACO,NARINO,VEREDA PLAYAS DEL MIRA,1.366353,-78.574431,Rural,2021,4,52835,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(2.5713783839, -77.8873007369)",GUAPI,CAUCA,BOCA DE NAPI,2.5713783839,-77.8873007369,Rural,2021,12,19318,19
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Sin informacion,"(4.37027777777778, -77.0522222222222)",LITORAL DEL SAN JUAN,CHOCO,RESGUARDO INDIGENA CHAGPIEN TORDO,4.37027777777778,-77.0522222222222,Rural,2022,3,27250,27
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Caminos,"(5.1661005953, -76.6803742214)",ISTMINA,CHOCO,COMUNIDAD INDIGENA SAN CRISTOBAL,5.1661005953,-76.6803742214,Rural,2022,8,27361,27
+Hombre,Menor de 18 anos,Herido,"Caza, pesca",Civil,Indigena,Campo,"(4.50959895319, -76.2431245664)",EL DOVIO,VALLE DEL CAUCA,VEREDA PUENTE CABE,4.50959895319,-76.2431245664,Rural,2022,4,76250,76
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,En cerca a edificio residencial,"(2.62694444444444, -76.3005555555556)",SILVIA,CAUCA,VEREDA PIENDAMO ARRIBA,2.62694444444444,-76.3005555555556,Rural,2022,8,19743,19
+Hombre,Mayor de 18 anos,Muerto,Transito por via usual,Civil,Indigena,Campo,"(1.329, -78.616)",TUMACO,NARINO,PALO SECO  JUNTA DE ACCION COMUNAL,1.329,-78.616,Rural,2022,10,52835,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(1.28888888888889, -78.2888888888889)",BARBACOAS,NARINO,RESGUARDO GRAN SABALO,1.28888888888889,-78.2888888888889,Rural,2022,11,52079,52
+Hombre,Mayor de 18 anos,Herido,"Pasando, estando cerca",Civil,Indigena,Campo,"(1.29388888888889, -78.2888888888889)",BARBACOAS,NARINO,RESGUARDO GRAN SABALO,1.29388888888889,-78.2888888888889,Rural,2022,11,52079,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Campo,"(1.29388888888889, -78.2888888888889)",BARBACOAS,NARINO,RESGUARDO GRAN SABALO,1.29388888888889,-78.2888888888889,Rural,2022,12,52079,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.245, -78.562)",TUMACO,NARINO,RESGUARDO INDIGENA PIEDRA SELLADA,1.245,-78.562,Rural,2023,1,52835,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.79338584254, -78.7639364297)",TUMACO,NARINO,INMEDIACIONES RIO GUIZA,1.79338584254,-78.7639364297,Rural,2022,12,52835,52
+Hombre,Mayor de 18 anos,Herido,Agricultura,Civil,Indigena,Campo,"(1.26111111111111, -78.5791666666667)",TUMACO,NARINO,RESGUARDO PIEDRA SELLADA,1.26111111111111,-78.5791666666667,Rural,2023,2,52835,52
+Hombre,Mayor de 18 anos,Herido,"Recogiendo comida, agua o  madera",Civil,Indigena,Campo,"(1.29083333333333, -78.2886111111111)",TUMACO,NARINO,RESGUARDO GRAN SABALO,1.29083333333333,-78.2886111111111,Rural,2023,5,52835,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Mujer,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Hombre,Mayor de 18 anos,Muerto,Sin Informacion,Civil,Indigena,Caminos,"(1.19076305555556, -78.1170069444444)",RICAURTE,NARINO,RESGUARDO DE VEGAS CHAGUI - CHIMBUZA,1.19076305555556,-78.1170069444444,Rural,2023,6,52612,52
+Hombre,Mayor de 18 anos,Herido,Sin Informacion,Civil,Indigena,Sin informacion,"(1.206, -78.065)",RICAURTE,NARINO,"RESGUARDO INDIGENA INTEGRADO LA MILAGROSA, VEREDA ALTO CUESBI",1.206,-78.065,Rural,2023,9,52612,52
