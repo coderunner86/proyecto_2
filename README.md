@@ -16,6 +16,7 @@
 
 **Correr el main**
 Escribir el comando:
+    
     python main.py
 
 **Usar el Menú**
