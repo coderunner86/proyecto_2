@@ -1,10 +1,12 @@
 """Este modulo permite llamar a la guncion download_data"""
 import requests
 
-def download_data(url):
+def download_data(url, timeout=10):
     """Descarga datos desde una URL específica y retorna el contenido en texto."""
-    response = requests.get(url)
-    if response.status_code == 200:
+    response = requests.get(url, timeout=timeout)
+    try:
+        response=raise_for_status():
         return response.text
-    print(f"Error al descargar el archivo: {response.status_code}")
-    return None
+    except request.exceptions.RequestException as e:
+        print(f"Error al descargar el archivo: {e}")
+        return None
