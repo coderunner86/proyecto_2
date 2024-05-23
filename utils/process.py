@@ -1,3 +1,4 @@
+"""Este modulo provee utilidades para la limpieza y normalizacion de datos tipo caracter"""
 import unicodedata
 
 def rename_columns(df, new_names):
