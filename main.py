@@ -5,16 +5,12 @@ from utils.process import rename_columns, process_dataframe
 from utils.filter import filter_by_column
 from utils.export import export_data
 
-"""
-Este módulo principal descarga, procesa, filtra y exporta datos obtenidos de la url o de un archivo local csv.
-"""
-
 def main():
     
     url = (
         "https://www.datos.gov.co/api/views/yhxn-eqqw/rows.csv?accessType=DOWNLOAD"
     )
-    csv_text = download_data(url)
+    csv_text=download_data(url)
 
     local_file_path = os.path.join('data', 'data.csv')
 
