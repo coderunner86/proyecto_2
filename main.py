@@ -1,3 +1,7 @@
+"""
+Este módulo principal descarga, procesa, filtra y exporta datos de una fuente especificada.
+"""
+
 import os
 from utils.download import download_data
 from utils.read import read_data_from_csv, read_data_from_local_file
@@ -38,7 +42,6 @@ def main():
         if option == '1':
             df = rename_columns(df, {'genero': 'estado', 'estado': 'genero'})
             df = process_dataframe(df)
-            
             column_order=[
                 'genero', 'rangoedad', 'estado', 'Actividad', 'condicion', 
                 'grupoetnico', 'tipoevento', 'Ubicación', 'municipio', 
@@ -46,7 +49,6 @@ def main():
                 'longitudcabecera', 'tipoarea', 'ano', 'mes', 
                 'codigodanemunicipio', 'codigodanedepartamento'
             ]
-            
             df = df.reindex(columns=column_order)
             export_data(df, 'processed_data.csv')
             print("Los datos han sido limpiados y exportados.")
@@ -56,7 +58,6 @@ def main():
             ).capitalize()
             
             df_filtered = df.loc[df['genero'] == genre_user]
-            
             export_data(
                 df_filtered, 
                 f'genero_{genre_user}.csv'
@@ -66,14 +67,12 @@ def main():
             column_name = input(
             """Ingresa el nombre de la columna para filtrar: """
             ).lower()
-
             value = input(
             f"""Ingresa un valor de {column_name} para filtrar: """
             )
             
             df_filtered = filter_by_column(df, column_name, value)
             print(df_filtered)
-
             export_data(
                 df_filtered, 
                 f"""filtered_by_{column_name}_{value}.csv"""
