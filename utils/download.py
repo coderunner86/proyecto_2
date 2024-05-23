@@ -1,3 +1,4 @@
+"""Este modulo permite llamar a la guncion download_data"""
 import requests
 
 def download_data(url):
@@ -5,6 +6,5 @@ def download_data(url):
     response = requests.get(url)
     if response.status_code == 200:
         return response.text
-    else:
-        print(f"Error al descargar el archivo: {response.status_code}")
-        return None
+    print(f"Error al descargar el archivo: {response.status_code}")
+    return None
