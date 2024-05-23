@@ -1,5 +1,8 @@
-import pandas as pd
+"""
+Este módulo ofrece funciones para leer datos desde formatos CSV y convertirlos en un DataFrame de pandas"""
+
 import io
+import pandas as pd
 
 def read_data_from_csv(csv_text):
     """Convierte texto CSV a DataFrame."""
