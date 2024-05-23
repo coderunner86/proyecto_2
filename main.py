@@ -6,7 +6,6 @@ from utils.filter import filter_by_column
 from utils.export import export_data
 
 def main():
-    
     url = (
         "https://www.datos.gov.co/api/views/yhxn-eqqw/rows.csv?accessType=DOWNLOAD"
     )
@@ -29,16 +28,18 @@ def main():
         print("1. Preprocesar la data")
         print("2. Filtrar por género")
         print("3. Filtrar por cualquier otra columna")
-        print("4. Mostrar conteo de víctimas por año, mes, departamento, actividad, género o estado")
+        print(
+        """4. Mostrar conteo de víctimas por año, mes, 
+              departamento, actividad, género o estado
+        """)
         print("5. Salir")
         option = input("Seleccione una opción: ")
 
         if option == '1':
-            
             df = rename_columns(df, {'genero': 'estado', 'estado': 'genero'})
             df = process_dataframe(df)
             
-            column_order = [
+            column_order=[
                 'genero', 'rangoedad', 'estado', 'Actividad', 'condicion', 
                 'grupoetnico', 'tipoevento', 'Ubicación', 'municipio', 
                 'departamento', 'sitio', 'latitudcabecera', 
@@ -49,9 +50,7 @@ def main():
             df = df.reindex(columns=column_order)
             export_data(df, 'processed_data.csv')
             print("Los datos han sido limpiados y exportados.")
-
         elif option == '2':
-            
             genre_user = input(
             """Ingresar género (Hombre o Mujer): """
             ).capitalize()
@@ -63,9 +62,7 @@ def main():
                 f'genero_{genre_user}.csv'
             )
             print(df_filtered.tail())
-
         elif option == '3':
-            
             column_name = input(
             """Ingresa el nombre de la columna para filtrar: """
             ).lower()
@@ -88,17 +85,12 @@ def main():
                 )
 
             print(df.head())
-
-
         elif option == '4':
             os.system('python script.py')
-
         elif option == '5':
             print("Saliendo del programa...")
             break
-
         else:
             print("Opción no válida, intente de nuevo.")
-
 if __name__ == "__main__":
     main()
