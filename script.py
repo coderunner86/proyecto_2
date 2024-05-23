@@ -1,4 +1,4 @@
-""" Este script realiza calculos automaticos sobre los datos procesados""""
+"""Este script realiza calculos automaticos sobre los datos procesados"""
 import os
 from utils.read import read_data_from_local_file
 from utils.export import export_totals
