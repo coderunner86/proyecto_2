@@ -1,3 +1,4 @@
+""" Este script realiza calculos automaticos sobre los datos procesados""""
 import os
 from utils.read import read_data_from_local_file
 from utils.export import export_totals
@@ -22,6 +23,7 @@ def display_totals(totals):
             print(f"{key}: {value}")
 
 def main():
+    """This is the main method"""
     local_file_path = os.path.join('data', 'processed_data.csv')
 
     try:
