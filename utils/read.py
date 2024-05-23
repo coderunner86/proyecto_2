@@ -1,5 +1,5 @@
 """
-Este módulo ofrece funciones para leer datos desde formatos CSV y convertirlos en un DataFrame de pandas"""
+Este módulo lee datos desde formatos CSV y los convierte en un DataFrame de pandas"""
 
 import io
 import pandas as pd
