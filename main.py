@@ -10,6 +10,7 @@ from utils.filter import filter_by_column
 from utils.export import export_data
 
 def main():
+    """This is the main method"""
     url = (
         "https://www.datos.gov.co/api/views/yhxn-eqqw/rows.csv?accessType=DOWNLOAD"
     )
@@ -56,12 +57,8 @@ def main():
             genre_user = input(
             """Ingresar género (Hombre o Mujer): """
             ).capitalize()
-            
             df_filtered = df.loc[df['genero'] == genre_user]
-            export_data(
-                df_filtered, 
-                f'genero_{genre_user}.csv'
-            )
+            export_data(df_filtered, f'genero_{genre_user}.csv')
             print(df_filtered.tail())
         elif option == '3':
             column_name = input(
@@ -73,10 +70,7 @@ def main():
             
             df_filtered = filter_by_column(df, column_name, value)
             print(df_filtered)
-            export_data(
-                df_filtered, 
-                f"""filtered_by_{column_name}_{value}.csv"""
-            )
+            export_data(df_filtered, f"""filtered_by_{column_name}_{value}.csv""")
 
             print(
                 f"""Datos filtrados por '{column_name}' = '{value}' 
