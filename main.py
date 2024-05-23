@@ -8,7 +8,7 @@ from utils.export import export_data
 def main():
     url = "https://www.datos.gov.co/api/views/yhxn-eqqw/rows.csv?accessType=DOWNLOAD"
     csv_text = download_data(url)
-    
+
     local_file_path = os.path.join('data', 'data.csv')
 
     if not csv_text:  # Si la descarga falla, intenta leer desde un archivo local
@@ -20,7 +20,7 @@ def main():
             return
     else:
         df = read_data_from_csv(csv_text)
-    
+
     while True:
         print("\nMenu de Opciones:")
         print("1. Preprocesar la data")
@@ -39,13 +39,13 @@ def main():
             df = df.reindex(columns=column_order)
             export_data(df, 'processed_data.csv')
             print("Los datos han sido limpiados y exportados.")
-        
+
         elif option == '2':
             genre_user = input("Ingresa el género (Hombre o Mujer): ").capitalize()
             df_filtered = df.loc[df['genero'] == genre_user]
             export_data(df_filtered, f'genero_{genre_user}.csv')
             print(df_filtered.tail())
-        
+
         elif option == '3':
             column_name = input("Ingresa el nombre de la columna para filtrar: ").lower()
             value = input(f"Ingresa un valor de dato de la columna {column_name} por el que quieras filtrar: ")
@@ -59,11 +59,11 @@ def main():
 
         elif option == '4':
             os.system('python script.py')
-        
+
         elif option == '5':
             print("Saliendo del programa...")
             break
-        
+
         else:
             print("Opción no válida, intente de nuevo.")
 

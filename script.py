@@ -23,7 +23,7 @@ def display_totals(totals):
 
 def main():
     local_file_path = os.path.join('data', 'processed_data.csv')
-    
+
     try:
         df = read_data_from_local_file(local_file_path)
     except FileNotFoundError:
@@ -32,7 +32,7 @@ def main():
 
     totals = calculate_totals(df)
     display_totals(totals)
-    
+
     totals_file_path = os.path.join('data', 'resultados.txt')
     export_totals(totals, totals_file_path)
 
