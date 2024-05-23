@@ -67,7 +67,6 @@ def main():
             value = input(
             f"""Ingresa un valor de {column_name} para filtrar: """
             )
-            
             df_filtered = filter_by_column(df, column_name, value)
             print(df_filtered)
             export_data(df_filtered, f"""filtered_by_{column_name}_{value}.csv""")
